@@ -1,0 +1,333 @@
+/* =========================================================
+   MABA Modern Homepage
+   ========================================================= */
+   @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700;800&display=swap');
+
+   :root{
+     --blue:#1C6B8F;
+     --nav:#0F3D53;
+     --yellow:#E1E31B;
+     --text:#222;
+     --muted:#F6F7F8;
+     --container:1280px;
+     --radius:14px;
+     --shadow:0 8px 24px rgba(0,0,0,.08);
+   }
+   *{box-sizing:border-box}
+   html,body{margin:0;padding:0;background:#fff;color:var(--text);font-family:'Open Sans',system-ui,Segoe UI,Roboto,Helvetica,Arial,sans-serif;line-height:1.55}
+   img{max-width:100%;height:auto;display:block}
+   .container{max-width:var(--container);margin:0 auto;padding:0 20px;width:100%;box-sizing:border-box}
+   /* Override for main.container */
+   main.container{max-width:var(--container);margin:0 auto;padding:30px 20px;width:100%;box-sizing:border-box}
+   
+   /* ===== Top Heritage Band (above nav) ===== */
+   .top-header{background:var(--blue);color:#fff}
+   .top-header .wrap{display:flex;flex-direction:column;gap:8px;align-items:center;justify-content:center;padding:12px 0}
+   .top-header .row-1{display:flex;gap:10px;align-items:center}
+   .top-header .logo{height:55px;width:auto}
+   .top-header .org{font-weight:800;letter-spacing:.2px;font-size:18px}
+   .top-header .row-2{font-weight:800;font-size:20px;text-align:center}
+   @media(min-width:900px){
+     .top-header .wrap{padding:14px 0}
+     .top-header .org{font-size:20px}
+     .top-header .row-2{font-size:22px}
+   }
+   
+   /* ===== Navigation Bar ===== */
+   #topnav{background:var(--nav);color:#fff}
+   body.sticky #topnav{position:sticky;top:0;z-index:1000}
+   .navbar{padding:12px 0}
+   .menu{display:flex;align-items:center;gap:18px;list-style:none;margin:0;padding:0}
+   .menu > li > a{color:#fff;text-decoration:none;font-weight:700;padding:10px 8px;border-bottom:2px solid transparent;display:inline-block}
+   .menu > li > a:hover{border-bottom-color:var(--yellow)}
+  .menu .spacer{flex:1}
+  .btn-cta{background:var(--yellow);color:#000;text-decoration:none;font-weight:800;padding:10px 14px;border-radius:10px;display:inline-block}
+  .menu > li > a.btn-cta{color:#000}
+  .btn-cta:hover{filter:brightness(.96)}
+   
+   /* Dropdowns */
+   .has-sub{position:relative}
+   .has-sub > a::after{content:"▾";margin-left:6px;font-size:.9em}
+   .sub{position:absolute;left:0;top:100%;min-width:220px;background:#fff;color:#111;box-shadow:var(--shadow);border-radius:10px;padding:8px 0;display:none;list-style:none;margin:0}
+   .sub li{list-style:none}
+   .sub a{color:#111;text-decoration:none;display:block;padding:10px 14px;font-weight:700}
+   .sub a:hover{background:#f1f1f1}
+   .has-sub:hover > .sub,
+   .has-sub:focus-within > .sub{display:block}
+   
+  /* ===== Hero & Tagline ===== */
+  .hero .photo{width:100%;aspect-ratio:16/6;object-fit:cover}
+  .tagline-section{background:var(--blue);color:#fff}
+  .tagline{padding:18px 0;text-align:center;font-size:22px;font-weight:800;color:#fff}
+   
+   /* ===== Recent Blog strip ===== */
+   .recent-blog{background:#fff;border-top:1px solid #eaeaea;border-bottom:1px solid #eaeaea;padding:30px 0}
+   .recent-blog .inner{display:flex;gap:10px;align-items:center}
+   .recent-blog .inner div{font-size:1.25em !important;line-height:1.55;font-weight:800}
+   .recent-blog .inner div strong,
+   .recent-blog .inner div a{font-size:inherit;font-weight:inherit}
+   .recent-blog .inner div a{color:var(--nav);text-decoration:none}
+   .recent-blog .inner div a:hover{text-decoration:underline}
+   .recent-blog img{width:auto !important;height:1.25em !important;display:inline-block !important;vertical-align:middle;object-fit:contain}
+   
+   /* ===== About Section ===== */
+   .about{background:#fff;padding:30px 0}
+   .about h2{margin:0 0 10px;color:var(--nav);font-weight:800}
+   .about h2 a{text-decoration:none;color:inherit}
+   .about h2 a:hover{text-decoration:underline}
+   .about p{margin:0 0 8px}
+   
+   /* ===== Cards ===== */
+   .cards{padding:36px 0}
+   .grid{display:grid;gap:24px;grid-template-columns:repeat(3, minmax(0,1fr))}
+   @media(max-width:1000px){.grid{grid-template-columns:1fr 1fr}}
+   @media(max-width:640px){.grid{grid-template-columns:1fr}}
+   .card{background:#fff;border-radius:12px;box-shadow:var(--shadow);overflow:hidden;display:flex;flex-direction:column}
+   .card img{width:100%;height:220px;object-fit:cover}
+   .card .content{padding:16px 18px;display:flex;flex-direction:column;flex:1}
+   .card .content img{width:100%;height:auto;flex:1;min-height:300px;object-fit:contain;margin-top:8px}
+   .card h3{margin:0 0 8px;color:var(--nav);font-weight:800}
+   .card p{margin:0 0 10px}
+   .card a.more{color:var(--nav);font-weight:800;text-decoration:none}
+   .card a.more:hover{text-decoration:underline}
+   .about a.more{color:var(--nav);font-weight:800;text-decoration:none}
+   .about a.more:hover{text-decoration:underline}
+   
+   /* Optional mini grid inside the “Supports” card */
+   .partner-grid{display:grid;grid-template-columns:repeat(2, minmax(80px,1fr));gap:14px}
+   .partner-grid img{width:100%;height:auto;background:#fff;padding:6px;border-radius:8px;box-shadow:0 2px 8px rgba(0,0,0,.08)}
+   
+   /* ===== CSS-only Lightbox (no JS) ===== */
+   .lightbox{position:fixed;inset:0;background:rgba(0,0,0,.8);display:none;align-items:center;justify-content:center;padding:24px;z-index:2000}
+   .lightbox:target{display:flex}
+   .lightbox img{max-width:min(1200px,95vw);max-height:90vh;border-radius:10px;box-shadow:0 12px 40px rgba(0,0,0,.5)}
+   .lightbox a.lb-close{position:fixed;top:14px;right:16px;background:#fff;color:#111;text-decoration:none;padding:8px 12px;border-radius:8px;font-weight:800}
+   .lightbox:target .backdrop{position:absolute;inset:0;display:block}
+   
+   /* ===== Main Content Pages ===== */
+   main,.main-content,#mainContent{background:#fff;padding:30px 0}
+   main .container:not(.navbar),.main-content .container,#mainContent .container{max-width:var(--container);margin:0 auto;padding:30px 20px}
+   /* If content is already in a container or wrapper, ensure it has padding */
+   #container{max-width:var(--container);margin:0 auto;padding:30px 20px}
+   #container > #mainContent,#container > .main-content,#container > #content{margin:0;padding:0}
+   
+   /* ===== About Us Page Sections ===== */
+   /* Note: main.container padding is handled by main .container rule above */
+   .about-page-section{margin-bottom:40px;width:100%;max-width:100%;box-sizing:border-box}
+   .about-page-section:last-child{margin-bottom:0}
+  .about-page-section h1{color:#222;font-weight:800;margin:0 0 20px;font-size:2.4em}
+  /* Make h2 more specific to override #mainContent rules - scoped to .about-page-section only */
+  #mainContent .about-page-section h2,
+  .about-page-section h2{color:#222;font-weight:800;margin:0 0 15px;font-size:1.5em !important}
+  .about-page-section h3{color:#222;font-weight:800;margin:25px 0 12px;font-size:1.4em}
+  .about-page-section h3 a{color:#222;text-decoration:none}
+  .about-page-section h3 a:hover{text-decoration:underline}
+  .about-page-section p{font-size:1em;line-height:1.55;margin:0 0 12px;color:var(--text)}
+  .about-page-section p a{color:var(--nav);text-decoration:none;font-weight:700}
+  .about-page-section p a:hover{text-decoration:underline}
+  /* Make ul rules more specific to override #mainContent rules - scoped to .about-page-section only */
+  #mainContent .about-page-section ul,
+  .about-page-section ul{list-style:none !important;padding:0;margin:0 0 20px}
+  #mainContent .about-page-section ul li,
+  .about-page-section ul li{margin:0 0 12px;font-size:1em;line-height:1.55;color:var(--text);padding-left:20px;position:relative}
+  #mainContent .about-page-section ul li:before,
+  .about-page-section ul li:before{content:"•";position:absolute;left:0;color:var(--nav);font-weight:bold}
+  .about-page-section ul li a{color:var(--nav);text-decoration:none;font-weight:700}
+  .about-page-section ul li a:hover{text-decoration:underline}
+  /* Prevent double bullets from nested lists in about-page-section */
+  #mainContent .about-page-section ul ul,
+  .about-page-section ul ul{list-style:none !important;padding-left:0}
+  #mainContent .about-page-section ul ul li:before,
+  .about-page-section ul ul li:before{content:"" !important;display:none}
+   .about-page-section ol{margin:0 0 20px;padding-left:20px}
+   .about-page-section ol li{font-size:1em;line-height:1.55;margin:0 0 8px;color:var(--text)}
+   .about-page-section blockquote{margin:25px 0;padding:20px;border-left:4px solid var(--yellow);background:var(--muted)}
+   .about-page-section blockquote p{margin:0;font-style:italic;color:var(--text)}
+   .about-page-section .doc-links{display:flex;flex-direction:column;gap:12px}
+   .about-page-section .doc-links a{color:var(--nav);text-decoration:none;font-weight:700;font-size:1em}
+   .about-page-section .doc-links a:hover{text-decoration:underline}
+  .about-page-section .board-photo{margin:20px 0;text-align:center}
+  .about-page-section .board-photo img{max-width:400px;width:100%;height:auto;border-radius:8px}
+  .about-page-section img{max-width:100%;height:auto;display:block;margin:20px auto}
+  .about-page-section .manifesto-image{text-align:center;margin:20px 0;display:block;width:100%;clear:both}
+  .about-page-section .manifesto-image img{max-width:100%;height:auto;display:block;margin:20px auto}
+  .about-page-section .manifesto-title{font-size:1.25em;font-weight:800;margin:0 0 15px}
+  .about-page-section .manifesto-title a{color:#222;text-decoration:none}
+  .about-page-section .manifesto-title a:hover{text-decoration:underline}
+   /* Board Section - Center heading and members text */
+   .board-section .board-heading{text-align:center}
+   .about-page-section .board-members{font-size:1em;line-height:1.55;margin-top:15px;color:var(--text);text-align:center}
+   .about-page-section .board-members p{margin:0;text-align:center}
+   .about-page-section strong{font-weight:800;color:var(--text)}
+   
+   /* Responsive grid for About Us page */
+   .about-page-grid{display:grid;grid-template-columns:1fr;gap:30px;margin:30px 0}
+   @media(min-width:768px){
+     .about-page-grid{grid-template-columns:1fr 1fr;gap:40px}
+   }
+   
+   /* ===== Positions Page - Centered Content ===== */
+   .positions-page{text-align:center}
+   /* Make first h1 match strategic_plan.html (#mainContent h1 default size) */
+   .positions-page .about-page-section:first-child h1{font-size:2em;font-weight:800;color:#222}
+   .positions-page .about-page-section h1,
+   .positions-page .about-page-section h2,
+   .positions-page .about-page-section p,
+   .positions-page .about-page-section ul{text-align:center}
+   .positions-page .about-page-section ul{list-style:none;display:inline-block;text-align:left}
+   .positions-page .about-page-section ul li{text-align:left}
+   
+   /* ===== Articles Page - Larger Main Heading ===== */
+   .articles-page .about-page-section:first-child h1{font-size:2.4em}
+   
+   /* ===== Positions Overview Page - Larger Main Heading and Link Colors ===== */
+   .positions-overview-page .about-page-section:first-child h1{font-size:2.4em}
+   .positions-overview-page .about-page-section h2 a{color:var(--nav);text-decoration:none}
+   .positions-overview-page .about-page-section h2 a:hover{text-decoration:underline}
+   
+   /* ===== Resources Overview Page - Larger Main Heading and Link Colors ===== */
+   .resources-overview-page .about-page-section:first-child h1{font-size:2.4em}
+   .resources-overview-page .about-page-section h2 a{color:var(--nav);text-decoration:none}
+   .resources-overview-page .about-page-section h2 a:hover{text-decoration:underline}
+   
+   /* ===== Manifesto Page Header ===== */
+   .manifesto-header{text-align:center;margin-bottom:30px}
+   .manifesto-header h1,
+   .manifesto-header h3,
+   .manifesto-header p{margin:10px 0;text-align:center}
+   
+   /* ===== Volunteer Page Headers ===== */
+   .volunteer-header-centered{text-align:center}
+   /* Center h1 headers on volunteer, news, and membership pages */
+   main.container .about-page-section h1{text-align:center}
+   /* Center h1 headers directly in main.container (for news.html and membership.html) */
+   main.container > h1{text-align:center;color:#222;font-weight:800;margin:0 0 20px;font-size:1.8em}
+   .volunteer-image-right{float:right;margin:10px 0 10px 15px;max-width:240px;height:auto}
+   
+   /* ===== Homepage Blockquote ===== */
+   .homepage-blockquote{margin:40px 0;padding:0}
+   .homepage-blockquote blockquote{margin:25px 0;padding:20px;border-left:4px solid var(--yellow);background:var(--muted)}
+   .homepage-blockquote blockquote p{margin:0;font-style:italic;color:var(--text)}
+   
+   /* ===== Sidebar Navigation (Articles Pages) ===== */
+   /* Two-column layout for pages with sidebar */
+   .articles-layout{display:flex;flex-direction:row;gap:30px;align-items:start;width:100%}
+   @media(max-width:768px){
+     .articles-layout{flex-direction:column}
+   }
+   #sidebar1{flex:0 0 280px;width:100%;max-width:280px}
+   @media(max-width:768px){
+     #sidebar1{max-width:100%;margin-bottom:30px}
+   }
+   /* Make sidebar wider for better link display - match main content width behavior */
+   #container #sidebar1{max-width:500px;min-width:350px}
+   @media(min-width:1200px){
+     #container #sidebar1{max-width:600px}
+   }
+   /* Allow sidebar links to be full width like main content - remove width constraints */
+   #sidebar1 .no_indent li{width:100%;max-width:100%;box-sizing:border-box}
+   #sidebar1 .no_indent li a{display:block;width:100%;max-width:100%;word-wrap:break-word;overflow-wrap:break-word;white-space:normal}
+   .articles-layout #mainContent,
+   .articles-layout section#mainContent{flex:1;width:100%;max-width:100%;min-width:0}
+  /* Prevent double bullets from nested lists - only for direct #mainContent children, not .about-page-section */
+  #mainContent > ul ul,
+  #mainContent ul ul:not(.about-page-section ul ul){list-style:none;padding-left:0}
+  #mainContent > ul ul li:before,
+  #mainContent ul ul:not(.about-page-section ul ul) li:before{content:"";display:none}
+   #sidebar1 .sideheader{color:#222;font-weight:800;margin:0 0 15px;font-size:1.8em;padding:0;border:none;background:none;text-align:left}
+   #sidebar1 .no_indent{list-style:disc;padding-left:20px;margin:0}
+   #sidebar1 .no_indent li{margin:0 0 8px;font-size:1em;line-height:1.55;color:var(--text)}
+   #sidebar1 .no_indent a{color:var(--nav);text-decoration:none;font-weight:700}
+   #sidebar1 .no_indent a:hover{text-decoration:underline}
+   #sidebar1 table td a{color:var(--nav);text-decoration:none;font-weight:700;font-size:1em;line-height:1.55}
+   #sidebar1 table td a:hover{text-decoration:underline}
+   /* Main content with sidebar */
+   main.container #mainContent{width:100%;max-width:100%}
+   
+  /* ===== Main Content (Articles Pages) ===== */
+  #mainContent{margin:0;padding:0}
+  /* Default h1 styling for #mainContent (used by strategic_plan.html) */
+  #mainContent h1{color:#222;font-weight:800;margin:0 0 20px;font-size:2em;text-align:center}
+  /* Only apply these rules when NOT inside .about-page-section (for article pages) */
+  #mainContent:not(.about-page-section) h2,
+  #mainContent > h2:not(.about-page-section h2),
+  #mainContent h2:not(.about-page-section h2){color:#222;font-weight:800;margin:0 0 15px;font-size:1.8em}
+  #mainContent:not(.about-page-section) h3,
+  #mainContent > h3:not(.about-page-section h3),
+  #mainContent h3:not(.about-page-section h3){color:#222;font-weight:800;margin:25px 0 12px;font-size:1.4em}
+  #mainContent p{font-size:1em;line-height:1.55;margin:0 0 12px;color:var(--text)}
+  /* Only apply these list rules when NOT inside .about-page-section */
+  #mainContent > ul:not(.about-page-section ul),
+  #mainContent ul:not(.about-page-section ul){list-style:disc;padding-left:20px;margin:0 0 20px}
+  #mainContent > ul:not(.about-page-section ul) li,
+  #mainContent ul:not(.about-page-section ul) li{margin:0 0 12px;font-size:1em;line-height:1.55;color:var(--text)}
+  #mainContent a{color:var(--nav);text-decoration:none;font-weight:700}
+  #mainContent a:hover{text-decoration:underline}
+   
+   /* ===== Blog Post Pages ===== */
+   .blog-post{width:100%;max-width:100%;text-align:left;box-sizing:border-box}
+   /* Ensure blog content uses full container width like manifesto */
+   main.container .blog-post{width:100%}
+   /* Center only headers */
+   .blog-post h2{color:#222;font-weight:800;margin:20px 0 15px;font-size:1.8em;text-align:center}
+   .blog-post h4{color:#222;font-weight:700;margin:10px 0 20px;font-size:1.1em;text-align:center}
+   /* Left-align body content */
+   .blog-post p{font-size:1em;line-height:1.55;margin:0 0 12px;color:var(--text);text-align:left}
+   .blog-post table{width:100%;max-width:100%;margin:20px 0;text-align:left}
+   .blog-post table td{font-size:1em;line-height:1.55;color:var(--text);padding:0;text-align:left}
+   /* Override inline center styles for content divs but preserve for headers */
+   .blog-post > div[style*="text-align: center"]{text-align:center}
+   .blog-post > div[style*="text-align: center"] h2,
+   .blog-post > div[style*="text-align: center"] h4,
+   .blog-post > div[style*="text-align: center"] img{text-align:center;display:block;margin:20px auto}
+   .blog-post > div[style*="text-align: center"] small{text-align:center;display:block}
+   /* Override center alignment in tables */
+   .blog-post table[style*="text-align: center"]{text-align:left !important}
+   .blog-post table[style*="text-align: center"] td{text-align:left !important}
+   .blog-post b{font-weight:800;color:var(--text)}
+   .blog-post strong{font-weight:800;color:var(--text)}
+   .blog-post a{color:var(--nav);text-decoration:none;font-weight:700}
+   .blog-post a:hover{text-decoration:underline}
+   .blog-post img{max-width:100%;height:auto;display:block;margin:20px auto}
+   .blog-post small{font-size:0.9em;color:var(--text);display:block;text-align:center;margin:10px 0}
+   .blog-post span{color:var(--text)}
+  .blog-post ul{display:block;list-style:disc;padding-left:20px;margin:0 0 20px;text-align:left;width:100%;clear:both}
+  .blog-post ul li{display:block;margin:0 0 12px;font-size:1em;line-height:1.55;color:var(--text);text-align:left;width:100%;float:none;clear:both}
+   .blog-post ol{list-style:decimal;padding-left:20px;margin:0 0 20px;text-align:left}
+   .blog-post ol li{margin:0 0 12px;font-size:1em;line-height:1.55;color:var(--text);text-align:left}
+   
+   /* ===== Position Statement Pages ===== */
+   .position-content{width:100%;max-width:100%;text-align:left}
+   .position-content h2,
+   .position-content h3{color:#222;font-weight:800;margin:20px 0 15px;font-size:1.8em}
+   .position-content h3{text-align:center}
+   .position-content h4{color:#222;font-weight:800;margin:20px 0 12px;font-size:1.4em}
+   .position-content p{font-size:1em;line-height:1.55;margin:0 0 12px;color:var(--text);text-align:left}
+   .position-content ul,
+   .position-content ol{margin:0 0 20px;padding-left:20px}
+   .position-content ul li,
+   .position-content ol li{font-size:1em;line-height:1.55;margin:0 0 8px;color:var(--text)}
+   .position-content a{color:var(--nav);text-decoration:none;font-weight:700}
+   .position-content a:hover{text-decoration:underline}
+   .position-content strong,
+   .position-content b{font-weight:800;color:var(--text)}
+   .position-content i,
+   .position-content em{font-style:italic}
+   .position-content hr{margin:20px 0;border:none;border-top:1px solid #ddd}
+   .position-content sup{font-size:0.8em;vertical-align:super}
+   
+   /* ===== Partner Logos ===== */
+   .partner-logos{display:flex !important;flex-direction:column !important;gap:5px !important;align-items:center !important;justify-content:center !important;padding:10px 0 !important}
+   .partner-logos a{display:block;cursor:pointer;text-decoration:none;border:none;outline:none}
+   .partner-logos a:hover{opacity:0.9}
+   .partner-logos img{height:85px !important;width:auto !important;max-width:100% !important;object-fit:contain !important;display:block !important;margin:0 !important;min-height:auto !important;flex:none !important}
+   
+   /* ===== Footer ===== */
+   .footer{background:var(--blue);color:#fff;text-align:center;padding:22px 12px;margin-top:40px;clear:both}
+   .footer a{color:#fff;text-decoration:underline}
+   /* Ensure footer is full width and not constrained by container */
+   body .footer{width:100%;max-width:100%;margin-left:0;margin-right:0;box-sizing:border-box}
+   @supports(width:100vw){
+     body .footer{width:100vw;position:relative;left:50%;right:50%;margin-left:-50vw;margin-right:-50vw;max-width:100vw}
+   }
+   
