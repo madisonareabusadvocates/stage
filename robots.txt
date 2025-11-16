@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+
+# Disallow admin or private areas (if you add any)
+# Disallow: /admin/
+# Disallow: /private/
+
+# Sitemap location
+Sitemap: https://www.busadvocates.org/sitemap.xml
+

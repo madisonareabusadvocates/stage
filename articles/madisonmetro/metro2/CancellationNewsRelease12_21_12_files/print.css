@@ -1,0 +1,47 @@
+/* CSS Document */
+body {
+   background: #ffffff;
+   font-size: 10pt;
+   color:#000000;
+   border:0;
+   font-family:"Times New Roman", Times, serif
+   }
+.noprint{
+	display:none;
+	}
+#nav{
+/*top navigation: navigation of all city header*/
+	display:none;
+}
+#city_footer{
+	/*city footer*/
+	display:none;
+}
+.left{
+	display:none;
+	}
+a:link, a:visited {
+   color: #0000ff;
+   font-weight: bold;
+   text-decoration: underline;
+   }
+.printonly{
+	float: left;
+	visibility: visible;
+	bottom: auto;
+	}
+table#main {
+	width: 90%;
+	border: 0;
+}
+table#main tr, table#main td {
+	border: 0;
+}
+#sidebar{ display:none;}
+
+/*#content a[href]:after {
+ content: " (" attr(href) ") ";
+ font-size: 90%;
+ color:blue;
+}*/
+

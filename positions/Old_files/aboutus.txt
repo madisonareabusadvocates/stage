@@ -1,0 +1,153 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/main.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>MABA: About Us</title>
+<!-- InstanceEndEditable -->
+<!-- InstanceBeginEditable name="head" -->
+<style type="text/css">
+<!--
+.grey-out {
+	color: #CCC;
+}
+-->
+</style>
+<!-- InstanceEndEditable -->
+
+<!--[if IE]>
+<style type="text/css"> 
+/* place css fixes for all versions of IE in this conditional comment */
+.twoColHybRtHdr #sidebar1 { padding-top: 30px; }
+.twoColHybRtHdr #mainContent { zoom: 1; padding-top: 15px; }
+/* the above proprietary zoom property gives IE the hasLayout it may need to avoid several bugs */
+</style>
+<![endif]-->
+rel="stylesheet" type="text/css" />
+<link href="mio.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body class="twoColHybRtHdr">
+
+<div id="container">
+  <div id="header">
+
+<!-- end #header --></div>
+<!-- Begin Menu Bar>
+/* The following sets the menu bar options */
+<!Menu Bar--> 
+  <div class="menubardiv">
+ 
+    <ul id="MenuBar1" class="MenuBarHorizontal">
+      <li><a href="index.html" title="MABA: Home">Home</a>      </li>
+      <li><a href="aboutus.html" title="MABA: About Us">About Us</a></li>
+      <li><a href="positions.html" title="MABA: Events">Positions</a></li>
+      <li><a href="strategies2.html" title="MABA: Strategies">Strategies</a></li>
+      <li><a href="articles.html" title="MABA: Articles">Articles</a></li>
+      <li><a href="links.html">Links</a></li>
+      <li><a style="font-weight:bold" href="joinus.html" title="MABA: Join Us">Join Us</a></li>
+    </ul>
+  </div>
+
+<!-- Begin Side Bar>
+/* This is the editable box for the right hand side sidebar */
+<!Side Bar-->
+  <div id="sidebar1"><!-- InstanceBeginEditable name="EditRegion4" -->
+  <table id="maintable">
+    <tr>
+      <th scope="col" class="sideheader"> Additional Documents</th>
+    </tr>
+    <tr>
+      <td height="40"><a href="Bylaws8_July_2018.pdf">Bylaws (PDF)</a></td>
+    </tr>
+    <tr>
+      <td><a href="conflict1.pdf">Conflict of Interest Policy (PDF)</a></td>
+    </tr>
+  </table>
+  <br />
+  <table id="maintabl">
+      <tr>
+        <th class="sideheader">Board Members:</th>
+      </tr>
+      <tr>
+        <td height="72"><img src="Images/boardmember.jpg" alt="" width="200" height="150" /></td>
+      </tr>
+      <tr>
+        <td><p>Susan De Vos, President<br />
+          Michael Barrett, Vice-President<br />
+          Barbara Smith<br />
+          Laurie Wermter<br />
+          Royce Williams<br />
+          Bruce Wilson<br />
+          Theodore Voth, Jr. <br />
+          Tim Wong </p>
+          <p>Ex-officio: Eric Goodman<br />
+        Michael Cechvala</p></td>
+      </tr>
+    </table>
+    <br />
+    
+  <!-- InstanceEndEditable -->
+  <!-- end #sidebar1 --></div>
+
+  <div class="headbar"> </div>
+<!-- Begin Main Content>
+/* This is the editable box for the Main Content */
+<!Main Content-->
+ <div id="mainContent">
+    <!-- InstanceBeginEditable name="EditRegion3" -->
+    <h1>About <span class="grey-out">(B)</span>Us </h1>
+    <h3>Mission:</h3>
+    <p>To engage in research, education, partnership, and advocacy with the goals of increasing bus ridership, expanding bus service, and improving the bus system as an efficient, clean, convenient, and affordable means of travel in the greater Madison area.</p>
+    <div class="divider"></div>
+    <h3>MABA: A history</h3>
+    <p>We are a diverse group of bus users and friends who believe that good public transit supports the dignity and freedom of all individuals, creates an open, hospitable and welcoming community, respects the environment, opens economic opportunity to all and moves people to where they need to go. A variety of transportation options, including good bus service, needs to be available in the greater Madison area so people and businesses can choose a transportation mode that considers convenience, time, health, safety and cost. We want an expanded and improved regional transit system that includes better transit options within the city of Madison itself.</p>
+    <p>Maintaining and improving the quality of service challenges us on many fronts, and our hope is that we can inform debates on all transit related subjects from social justice to environmental issues.</p>
+    <div class="indented">
+      <li>We <span class="boldtype">research</span> issues of bus system finance, fuel-efficiency, technology, regulation, and successful transit practices elsewhere. </li>
+      <br />
+      <li>We <span class="boldtype">educate</span> the community and its leaders about the value of good bus service, about strategies for improving bus service, and about local transit policies and plans.</li>
+      <br />
+      <li>We<span class="boldtype"> partner</span> with local environmental, neighborhood, business, and civic groups to advance a strong pro-bus agenda.</li>
+      <br />
+      <li>We <span class="boldtype">advocate</span> by providing an organized pro-bus citizen voice in public arenas where bus policy is set. </li>
+    </div>
+    <p>Madison Area Bus Advocates was formed to provide an independent citizen voice on bus transit issues in the Greater Madison Area. We are incorporated in the State of Wisconsin and have Federal nonprofit [501(c)(3)] status. We engage in research, education, partnership and advocacy.</p>
+<p>Often changes in fares and service are made with little regard to long-term plans. Instead, the community needs to adopt a strategy with imagination and knowledge of successful programs elsewhere. Maintaining service should receive the highest priority and any changes must be based on clearly articulated standards developed prior to the emergence of a crisis. Madison Area Bus Advocates continues to press for a better bus system and encourages all citizens to join in our efforts to improve the community we hold dear.</p>
+<div class="divider"></div>
+<h3>Vision:</h3>
+<p>An expanded and improved urban and regional bus system, serving more people, places, and trips throughout the greater Madison area.</p>
+   
+
+    <!-- InstanceEndEditable -->
+  <!-- end #mainContent --></div>
+	
+    <!-- This clearing element should immediately follow the #mainContent div in order to force the #container div to contain all child floats -->
+  <br class="clearfloat" />
+
+<!-- Begin Footer>
+/* This is the editable box for the Footer. The current footer box contains MABA name, address and info@ email address */
+<!Footer-->   
+    <div id="footer">
+    <p>Madison Area Bus Advocates |P.O. Box 260156, Madison, WI 53726-0156 | info@busadvocates.org 
+    <br />
+    <br />
+    <span class="smallfont">Last updated: 12/08/09</span></p> 
+   
+  <!-- end #footer --></div>
+<!-- end #container --></div>
+
+
+<!-- Javascript element>
+/* Please DON'T TOUCH this setting for JAVA script */
+<!JAVA-->
+<script type="text/javascript">
+<!--
+
+var MenuBar1 = new Spry.Widget.MenuBar("MenuBar1", {imgDown:"../SpryAssets/SpryMenuBarDownHover.gif", imgRight:"../SpryAssets/SpryMenuBarRightHover.gif"});
+//-->
+</script>
+</body>
+<!-- InstanceEnd --></html>
+

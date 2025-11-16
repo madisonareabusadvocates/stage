@@ -1,0 +1,1530 @@
+.
+├── .ftpquota
+├── .htaccess
+├── .htaccess.ea4bak
+├── .htaccess.phpupgrader.0f44d428
+├── .htaccess.phpupgrader.5d32aa90
+├── .htaccess.phpupgrader.initial
+├── .smileys
+│   ├── smiley1.gif
+│   ├── smiley10.gif
+│   ├── smiley11.gif
+│   ├── smiley12.gif
+│   ├── smiley13.gif
+│   ├── smiley14.gif
+│   ├── smiley15.gif
+│   ├── smiley16.gif
+│   ├── smiley2.gif
+│   ├── smiley3.gif
+│   ├── smiley4.gif
+│   ├── smiley5.gif
+│   ├── smiley6.gif
+│   ├── smiley7.gif
+│   ├── smiley8.gif
+│   └── smiley9.gif
+├── .well-known
+│   ├── acme-challenge
+│   └── pki-validation
+├── 2017AlderCandidates3.html
+├── 2020ApprovedStrategicPlan.pdf
+├── 400.shtml
+├── 401.shtml
+├── 403.shtml
+├── 404.shtml
+├── 500.php
+├── 500.shtml
+├── BRT_Plan_Adopted_June_08.pdf
+├── BusinessCanDo.html
+├── Bylaws2021.pdf
+├── Candidate_Qs15.html
+├── Center for Change Logo.png
+├── Images
+│   ├── BRTALL.jpg
+│   ├── CRANES_LOGOtext.jpg
+│   ├── DCNDlogo2.png
+│   ├── Dont_forget_to_vote.jpg
+│   ├── DriverInstaller_DD.exe
+│   ├── FBEventsIMG_0136reduced.jpg
+│   ├── FourthBanner.jpg
+│   ├── IMG_20111024_184710.jpg
+│   ├── MABA10_10IMG_3268.JPG
+│   ├── MABA11_11Board.jpg
+│   ├── MABA19_02Board.jpg
+│   ├── MABABoard6_13.jpg
+│   ├── MABABoard6_4_09.jpg
+│   ├── MABABoardNov2015.jpg
+│   ├── MadAreaBusAdv_1.jpg
+│   ├── MadAreaBusAdv_2.jpg
+│   ├── Madison-Rail-Alternative.png
+│   ├── Mayor's_Roundtable_2015_Postcard.jpg
+│   ├── NickDeMarsh10_28_19MABAmeet.jpg
+│   ├── ResnickScott.jpg
+│   ├── RichUsePublicTransitsmall.jpg
+│   ├── RogersOverlay.jpg
+│   ├── RogersOverlay2.jpg
+│   ├── RogerslcBRT.jpg
+│   ├── SoglinPaul.jpg
+│   ├── Special_FB_1_2013.jpg
+│   ├── T4Alogo.png
+│   ├── TED2025_1080x1080.jpg
+│   ├── TRUSTGreyStrip2.jpg
+│   ├── WTRA_2019_BANNER.jpg
+│   ├── WTRA_Logo_2013_C.jpg
+│   ├── WTRA_Logo_2013_C_page_001.jpg
+│   ├── WTRAbanner2.PNG
+│   ├── WWD2024_Image.jpg
+│   ├── YBandS2023.jpg
+│   ├── YahooListserve.jpg
+│   ├── articles.gif
+│   ├── articulatedbus3.jpg
+│   ├── bkround.png
+│   ├── boardmember.jpg
+│   ├── buscapitol.jpg
+│   ├── busdayton.jpg
+│   ├── cropped-TBC_10yr_Logo.png
+│   ├── cropped_MABA19_02Board.jpg
+│   ├── cropped_MABA21_06Board.jpg
+│   ├── donate_button.jpg
+│   ├── facebook.jpg
+│   ├── facebook.png
+│   ├── facebook2.jpg
+│   ├── headbanner.jpg
+│   ├── headbanner.jpg.LCK
+│   ├── headbanner.psd
+│   ├── headerimage.jpg
+│   ├── headerimage2.jpg
+│   ├── htybrid1.jpg
+│   ├── image_2010.png
+│   ├── image_strategy.png
+│   ├── join_front.jpg
+│   ├── mababutton copy.jpg
+│   ├── mababutton.jpg
+│   ├── mababutton_transp.jpg
+│   ├── mio.jpg
+│   ├── pocketbrt.png
+│   ├── pocketbrt2.png
+│   ├── pocketbrt_copy.png
+│   ├── pocketbrt_index.jpg
+│   ├── pocketbrt_index.png
+│   ├── rally3.jpg
+│   ├── sideheader.jpg
+│   ├── sideheader2.jpg
+│   ├── t2020_bus2.png
+│   ├── transit2020_bussystem.png
+│   ├── transport_america_temp.gif
+│   ├── x-click-but21.gif
+│   ├── yahoo.jpg
+│   ├── yahoo_listserve.psd
+│   └── yahoo_logo.jpg
+├── InKindDonationsForm10.doc
+├── MABA.css
+├── MABA_2.css
+├── Manifesto
+│   ├── ColorManifesto.pdf
+│   ├── Manifesto.pdf
+│   ├── Manifesto6.pdf
+│   ├── SummaryColorManifesto.pdf
+│   ├── colormanifesto.html
+│   └── manifesto.html
+├── MayoralCandidateAnswersto5Qs_2015.html
+├── Membership_form3.pdf
+├── Streamlined.pdf
+├── Templates
+│   ├── index.html
+│   ├── main.dwt
+│   ├── template2.html
+│   ├── template_no_sidebar.html
+│   └── template_sidebar.html
+├── TheMover2013.pdf
+├── aboutus.html
+├── articles
+│   ├── BRT
+│   │   ├── ALLSIMPLE.GIF
+│   │   ├── BACKGROUND.GIF
+│   │   ├── BRTALL.HTM
+│   │   ├── BRTALL.JPG
+│   │   ├── BusRapidTransit.pdf
+│   │   ├── CAPITOL.HTM
+│   │   ├── CAPITOL.JPG
+│   │   ├── CAPITOLDETAIL.HTM
+│   │   ├── CAPITOLDETAIL.JPG
+│   │   ├── INDEX.HTML
+│   │   ├── LANES.HTM
+│   │   ├── LANES.JPG
+│   │   ├── LOGO.GIF
+│   │   ├── MadisonMover.html
+│   │   ├── MadisonMover_old.html
+│   │   ├── REDLINE.HTM
+│   │   ├── REDLINE.JPG
+│   │   ├── REDSIMPLE.GIF
+│   │   ├── SCHEDULE.PDF
+│   │   ├── _notes
+│   │   │   └── dwsync.xml
+│   │   ├── logo2.gif
+│   │   └── pocketbrt.png
+│   ├── _notes
+│   │   └── dwsync.xml
+│   ├── archivedwebarticles
+│   │   ├── 10RideTicket.jpg
+│   │   ├── 2017_alder_election.html
+│   │   ├── 719Rethke.jpg
+│   │   ├── AEC.html
+│   │   ├── AEC_Vision_Doc_Pic1a.jpg
+│   │   ├── BWLogoURL.jpg
+│   │   ├── Bus_photo_Red.jpg
+│   │   ├── CarShare.html
+│   │   ├── E_Johnson_St.jpg
+│   │   ├── East_Towne6.jpg
+│   │   ├── ForPastColumns3.jpg
+│   │   ├── Gray733.png
+│   │   ├── GreenApartments.html
+│   │   ├── Imagination.html
+│   │   ├── Intercity_Terminal_at_AEC.html
+│   │   ├── JeniferDetour.png
+│   │   ├── PassingThrough.html
+│   │   ├── PerCapGODebtforMajSts3.jpg
+│   │   ├── RideShare.html
+│   │   ├── RoadMap.html
+│   │   ├── Shopping_Malls.html
+│   │   ├── The_Bus_Stops_Here_At_Shopping_Malls_Too_Madison_Commons.pdf
+│   │   ├── The_Bus_Stops_Here_For_Affordable_Housing_Madison_Commons.pdf
+│   │   ├── The_Bus_Stops_Here_For_Imagination_Madison_Commons.pdf
+│   │   ├── The_Bus_Stops_Here_For_Ride_Shares_Too_Madison_Commons.pdf
+│   │   ├── The_Bus_Stops_Here_For_a_Future_Intercity_Bus_Terminal_at_the_Alliant_Energy_Center_Madison_Commons.pdf
+│   │   ├── The_Bus_Stops_Here_Ridesharing_Can_Be_a_Complement_or_Threat_Madison_Commons.pdf
+│   │   ├── Transit_and_the_2017_Election_for_Madison_Alder.pdf
+│   │   ├── affordable.html
+│   │   ├── avoid.html
+│   │   ├── blog
+│   │   │   ├── 2019MayoralForum.html
+│   │   │   ├── BusBuddies.html
+│   │   │   ├── BusBuddies1.jpg
+│   │   │   ├── CityTransDept2.png
+│   │   │   ├── Jan15MayoralForum.jpg
+│   │   │   ├── forward.jpg
+│   │   │   ├── goodgovernance.html
+│   │   │   ├── index.html
+│   │   │   ├── newDOT.html
+│   │   │   ├── smartphone.html
+│   │   │   └── smartphone.jpg
+│   │   ├── brain.html
+│   │   ├── coliseum.html
+│   │   ├── coliseum.jpg
+│   │   ├── complementorthreat.html
+│   │   ├── corners.html
+│   │   ├── corners2.jpg
+│   │   ├── customer_service.html
+│   │   ├── downtown.html
+│   │   ├── downtown.jpg
+│   │   ├── electrify.html
+│   │   ├── fairfare.html
+│   │   ├── farebox.jpg
+│   │   ├── farebox2.jpg
+│   │   ├── flag_stop.jpg
+│   │   ├── future.html
+│   │   ├── green_apartment_house.jpg
+│   │   ├── grid_and_bear.html
+│   │   ├── grid_sample.jpg
+│   │   ├── halloween.html
+│   │   ├── halloween_on_the_bus.jpg
+│   │   ├── index.html
+│   │   ├── insideproterra2.jpg
+│   │   ├── intercity terminal at AEC.html
+│   │   ├── johnsonmain2.jpg
+│   │   ├── light.html
+│   │   ├── mababutton.jpg
+│   │   ├── matc_pic_creditted2.jpg
+│   │   ├── meet.html
+│   │   ├── metrowebsitedated.jpg
+│   │   ├── missing.html
+│   │   ├── neighborhood_commute.html
+│   │   ├── oakwood trip 2.jpeg
+│   │   ├── open.html
+│   │   ├── outside.html
+│   │   ├── passing_through.jpg
+│   │   ├── proterra.jpg
+│   │   ├── seniors.html
+│   │   ├── shedding_light.jpg
+│   │   ├── simple_map_of_madison_area.jpg
+│   │   ├── skinnychart.jpg
+│   │   ├── snow.html
+│   │   ├── streamlined.html
+│   │   ├── streamlined.jpg
+│   │   ├── studentbus2.jpg
+│   │   ├── sustainable.html
+│   │   ├── sustainable2.jpg
+│   │   ├── symbiosis.html
+│   │   ├── symbiosis.jpg
+│   │   ├── taxing_matter.html
+│   │   ├── technicality.html
+│   │   ├── template.html
+│   │   ├── terminal.html
+│   │   ├── terminal2009.jpg
+│   │   ├── uneasy.html
+│   │   ├── uneasy.jpg
+│   │   ├── welcome.html
+│   │   ├── wheelchair.jpg
+│   │   └── wheels.html
+│   ├── communitycosts
+│   │   ├── 1kFriendsPropertyTax1.pdf
+│   │   ├── 1kFriendsRoadsFundingMar07.pdf
+│   │   ├── 2
+│   │   │   ├── Squeak.html
+│   │   │   ├── adorn.html
+│   │   │   ├── approved.html
+│   │   │   ├── boon.html
+│   │   │   ├── busshelters.html
+│   │   │   ├── busshelters2.html
+│   │   │   ├── busshelters3.html
+│   │   │   ├── busshelters4.html
+│   │   │   ├── disservice.html
+│   │   │   ├── fate.html
+│   │   │   ├── hideous.html
+│   │   │   ├── hideous2.html
+│   │   │   ├── index.html
+│   │   │   ├── newyear.html
+│   │   │   ├── nixed.html
+│   │   │   ├── payd_aff.pdf
+│   │   │   ├── payd_ca.html
+│   │   │   ├── payd_rec.pdf
+│   │   │   ├── ugly.html
+│   │   │   ├── unsightly.html
+│   │   │   └── wrong.html
+│   │   ├── 2008HealthAtAGlanceCounty.pdf
+│   │   ├── 2008RptCardExecSumm.pdf
+│   │   ├── 2008RptCardFull.pdf
+│   │   ├── 2010RptCardFull.pdf
+│   │   ├── 2010RptCardSum.html
+│   │   ├── 2011_WI_Road_costs_report.pdf
+│   │   ├── 2far.html
+│   │   ├── 3
+│   │   │   ├── ADATSRecommendationIgnored.html
+│   │   │   ├── AdoptedMonroeStBusStops-AfterReconstruction.jpg
+│   │   │   ├── Bus_Stop_Optimization_Policy_Pilot.pdf
+│   │   │   ├── BusinessPetition.pdf
+│   │   │   ├── CommonwealthDevelopment.pdf
+│   │   │   ├── Document1.wpd
+│   │   │   ├── Excerpt from TPC Minutes about Jenifer St. Bus Stops.wpd
+│   │   │   ├── From November 2013 TPC Minutes.wpd
+│   │   │   ├── FromNovember2013TPCMinutes.pdf
+│   │   │   ├── InitiallyProposedEMonroemap.jpg
+│   │   │   ├── InitiallyProposedWMonroemap.jpg
+│   │   │   ├── JeniferJustification.pdf
+│   │   │   ├── JeniferStops.pdf
+│   │   │   ├── MNAOpposition.pdf
+│   │   │   ├── MapJohnson_Gorham.pdf
+│   │   │   ├── MetroMemoJustifyingJohnson_GorhamStopElimination.pdf
+│   │   │   ├── MonroeSt.pdf
+│   │   │   ├── MonroeStBusStopsOutreach.pdf
+│   │   │   ├── Oregon_right-of-way_law.pdf
+│   │   │   ├── ProposedMonroeStBusStops-AfterReconstruction-TPC03.08.17.pdf
+│   │   │   ├── SASYNeighborhood.pdf
+│   │   │   ├── SusanDeVosTestimorny.pdf
+│   │   │   ├── TLNA14.html
+│   │   │   ├── TurnerAvenueBusStopsUnderReview.pdf
+│   │   │   ├── Wong_FoxcroftPositionPiece.pdf
+│   │   │   ├── fromMarch2014TPCMinutes.html
+│   │   │   ├── fromTPCMinutesaboutJeniferSt.BusStops.pdf
+│   │   │   ├── index.html
+│   │   │   ├── king.html
+│   │   │   ├── scapegoat.html
+│   │   │   └── turnerstops.pdf
+│   │   ├── A-Civil-Rights-Roadmap-for-Transportation-Equity.pdf
+│   │   ├── APHAPublicTransFactSheetFeb2012.pdf
+│   │   ├── AffordabilityIndex2.pdf
+│   │   ├── AudibleExtractfromMinutes.pdf
+│   │   ├── BeerBusWrap8_16_12.jpg
+│   │   ├── Childcare.pdf
+│   │   ├── Community2011-2015
+│   │   │   ├── 2far.html
+│   │   │   ├── AudibleExtractfromMinutes.pdf
+│   │   │   ├── BeerBusWrap8_16_12.jpg
+│   │   │   ├── Crazy.html
+│   │   │   ├── DOTBudgetChange.html
+│   │   │   ├── Transportation_And_Jobs-Factsheet.pdf
+│   │   │   ├── WhoPays2011.pdf
+│   │   │   ├── bossesforbuses.pdf
+│   │   │   ├── getting-to-work-july20.pdf
+│   │   │   ├── index.html
+│   │   │   ├── jobs_chart_1.gif
+│   │   │   ├── jobs_chart_2.gif
+│   │   │   ├── jobs_title.gif
+│   │   │   ├── transportation.html
+│   │   │   ├── transportation3.html
+│   │   │   ├── transportation6.html
+│   │   │   └── wisdotsocioeconomicbenefitsmay2006.pdf
+│   │   ├── CommunityPre2010
+│   │   │   ├── 1kFriendsPropertyTax1.pdf
+│   │   │   ├── 1kFriendsRoadsFundingMar07.pdf
+│   │   │   ├── 2008HealthAtAGlanceCounty.pdf
+│   │   │   ├── 2008RptCardExecSumm.pdf
+│   │   │   ├── 2008RptCardFull.pdf
+│   │   │   ├── Childcare.pdf
+│   │   │   ├── EquityFindingsfrom2008OnBoardSurvey.pdf
+│   │   │   ├── MariaChocaUrban.pdf
+│   │   │   ├── NoiseHealthEffectsReport.pdf
+│   │   │   ├── OBS_Analysis.pdf
+│   │   │   ├── ObesityPrev.pdf
+│   │   │   ├── ShapeUpSPflyer.pdf
+│   │   │   ├── Squeak.html
+│   │   │   ├── busshelters.html
+│   │   │   ├── busshelters4.html
+│   │   │   ├── health.pdf
+│   │   │   ├── highoil.html
+│   │   │   ├── index.html
+│   │   │   ├── squat.html
+│   │   │   ├── transportation2.html
+│   │   │   └── wisdotsocioeconomicbenefitsmay2006.pdf
+│   │   ├── Crazy.html
+│   │   ├── DOTBudgetChange.html
+│   │   ├── EquityFindingsfrom2008OnBoardSurvey.pdf
+│   │   ├── HealthyDevelopmentwithoutDisplacement.pdf
+│   │   ├── MobilityOptionsandPublicHealth.pdf
+│   │   ├── NoiseHealthEffectsReport.pdf
+│   │   ├── OBS_Analysis.pdf
+│   │   ├── ObesityPrev.pdf
+│   │   ├── Oregon_right-of-way_law.pdf
+│   │   ├── Oregon_right-of-way_law.wpd
+│   │   ├── SGA_T4A_Lessons_from_the_2009_Stimulus.pdf
+│   │   ├── ShapeUpSPflyer.pdf
+│   │   ├── Squeak.html
+│   │   ├── The-Road-to-Health-Care-Parity.pdf
+│   │   ├── Tom_Rossi_Graphic.jpg
+│   │   ├── Tom_Rossi_GraphicC.jpg
+│   │   ├── TransportationandHealthEquity_SmartGrowth2019.pdf
+│   │   ├── WhoPays2011.pdf
+│   │   ├── _notes
+│   │   │   └── dwsync.xml
+│   │   ├── activeforecast.html
+│   │   ├── appalling.html
+│   │   ├── approved.html
+│   │   ├── boon.html
+│   │   ├── bossesforbuses.pdf
+│   │   ├── busshelters.html
+│   │   ├── busshelters4.html
+│   │   ├── co-op.html
+│   │   ├── elimination.html
+│   │   ├── equity-in-practice_2021.pdf
+│   │   ├── fiasco.html
+│   │   ├── getting-home-july21.pdf
+│   │   ├── getting-to-work-july20.pdf
+│   │   ├── health.pdf
+│   │   ├── hideous2.html
+│   │   ├── highoil.html
+│   │   ├── index.html
+│   │   ├── jobs_chart_1.gif
+│   │   ├── jobs_chart_2.gif
+│   │   ├── jobs_title.gif
+│   │   ├── king.html
+│   │   ├── manpower.html
+│   │   ├── metroforward.pdf
+│   │   ├── nchrp_rrd_393.pdf
+│   │   ├── outsourcing.html
+│   │   ├── priorities.html
+│   │   ├── reasons.html
+│   │   ├── reasons2.html
+│   │   ├── squat.html
+│   │   ├── stroller1.html
+│   │   ├── stroller2.html
+│   │   ├── transportation.html
+│   │   ├── transportation2.html
+│   │   ├── transportation3.html
+│   │   ├── transportation4.html
+│   │   ├── transportation5.html
+│   │   ├── transportation6.html
+│   │   └── wisdotsocioeconomicbenefitsmay2006.pdf
+│   ├── commuting
+│   │   ├── NoFreeways.html
+│   │   ├── _notes
+│   │   │   └── dwsync.xml
+│   │   ├── choice.html
+│   │   ├── companies_go_green.pdf
+│   │   ├── index.html
+│   │   ├── letter.pdf
+│   │   └── path.html
+│   ├── environment
+│   │   ├── Dane-Co-Climate-Action-Plan-202004-web.pdf
+│   │   ├── Driving_Down_Emissions_FINAL.pdf
+│   │   ├── Extending_Sustainability_to_Capital_Projects.html
+│   │   ├── FrontierGroup_50Steps2016small.pdf
+│   │   ├── How_to_Fight_Climate_Change.html
+│   │   ├── KuntzDaneCtyCAP_2021_03_29.pdf
+│   │   ├── SMC_Report_4_2_2018_FINAL.pdf
+│   │   ├── TransitioningTransportation.pdf
+│   │   ├── Transportation_and_Biodiversity_Report.pdf
+│   │   ├── Transportation_and_Climate_Change.pdf
+│   │   ├── Transportation_and_the_Environment.pdf
+│   │   ├── index.html
+│   │   ├── movingcooler.pdf
+│   │   ├── winwin.pdf
+│   │   └── wwclimate.pdf
+│   ├── fares
+│   │   ├── 2
+│   │   │   ├── _notes
+│   │   │   │   └── dwsync.xml
+│   │   │   ├── baddecisions.html
+│   │   │   ├── budget.html
+│   │   │   ├── budgetmeeting.html
+│   │   │   ├── citizensspeak.html
+│   │   │   ├── council.html
+│   │   │   ├── council2.html
+│   │   │   ├── cuts.html
+│   │   │   ├── fare_hike.html
+│   │   │   ├── increase.html
+│   │   │   ├── index.html
+│   │   │   ├── mayor.html
+│   │   │   ├── pitch.html
+│   │   │   ├── risingcosts.html
+│   │   │   └── shortfall.html
+│   │   ├── CRANES_FFT_KEBLOWSKIarticle_v2020_01_22.pdf
+│   │   ├── FFTFS-FFTarticleURLs-2021-07-02.pdf
+│   │   ├── Fares _ Metro Transit, City of Madison as of Jan. 19, 2020.pdf
+│   │   ├── Madison_transportation_board_shelves_cashless_bus_fare_proposal.pdf
+│   │   ├── Posts.pdf
+│   │   ├── _notes
+│   │   │   └── dwsync.xml
+│   │   ├── faresthru16
+│   │   │   ├── 09HikeEstimates.pdf
+│   │   │   ├── 1kFriendsPropertyTax1.pdf
+│   │   │   ├── 1kFriendsRoadsFundingMar07.pdf
+│   │   │   ├── 2013ProposedFaresflyer.pdf
+│   │   │   ├── 2016_Proposed_Fare_Increase.pdf
+│   │   │   ├── 6monthAssessment.html
+│   │   │   ├── Broken_Partnership.pdf
+│   │   │   ├── Council_OKs.html
+│   │   │   ├── EquitySensitiveFares__TPC_March_2016.pdf
+│   │   │   ├── FareHistory2000__2016_TPC06.08.16.pdf
+│   │   │   ├── Innovative.html
+│   │   │   ├── NoHike2013.html
+│   │   │   ├── OKs.html
+│   │   │   ├── PublicHearingReport_2016FareHikefromTPCMinutes_05.11.16.pdf
+│   │   │   ├── SchwingeChartPercentIncreaseMar2009toSep2016_TPC05.11.16.pdf
+│   │   │   ├── articles.html
+│   │   │   ├── avoidcuts.html
+│   │   │   ├── baddecisions.html
+│   │   │   ├── budget.html
+│   │   │   ├── budgetmeeting.html
+│   │   │   ├── bus_fare_flyer_bw.pdf
+│   │   │   ├── bus_flyer_color.pdf
+│   │   │   ├── busbudget.html
+│   │   │   ├── citizensspeak.html
+│   │   │   ├── coordinate.html
+│   │   │   ├── council.html
+│   │   │   ├── council2.html
+│   │   │   ├── cuts.html
+│   │   │   ├── cuts2.html
+│   │   │   ├── fare_hike.html
+│   │   │   ├── freerides.html
+│   │   │   ├── gears.html
+│   │   │   ├── increase.html
+│   │   │   ├── index.html
+│   │   │   ├── iwf_combined_report_feb09.pdf
+│   │   │   ├── letter.pdf
+│   │   │   ├── mayor.html
+│   │   │   ├── pitch.html
+│   │   │   ├── raise2.html
+│   │   │   ├── rally3.jpg
+│   │   │   ├── rejects.html
+│   │   │   ├── risingcosts.html
+│   │   │   ├── salaries.html
+│   │   │   ├── shortfall.html
+│   │   │   ├── taxes.html
+│   │   │   ├── template.htm
+│   │   │   └── wurta-legislativeagenda.pdf
+│   │   ├── hike09
+│   │   │   ├── 08TPCHike1.htm
+│   │   │   ├── 08TPCHike1_files
+│   │   │   │   ├── 86776.jpg
+│   │   │   │   └── _notes
+│   │   │   │       └── dwsync.xml
+│   │   │   ├── 09HikeEstimates.pdf
+│   │   │   ├── 10reasons.html
+│   │   │   ├── 2MFail.html
+│   │   │   ├── 2MReport2.html
+│   │   │   ├── 2MonthReport1.html
+│   │   │   ├── 6monthAssessment.html
+│   │   │   ├── BigPicture.html
+│   │   │   ├── Council_OKs.html
+│   │   │   ├── Matano.html
+│   │   │   ├── Mayor09.html
+│   │   │   ├── OKs.html
+│   │   │   ├── RightDirection.html
+│   │   │   ├── WSJOpinion09.html
+│   │   │   ├── _notes
+│   │   │   │   └── dwsync.xml
+│   │   │   ├── alternatives.html
+│   │   │   ├── approved.html
+│   │   │   ├── cannot.html
+│   │   │   ├── convinced.html
+│   │   │   ├── cuts09.html
+│   │   │   ├── debate.html
+│   │   │   ├── discount.html
+│   │   │   ├── drop.html
+│   │   │   ├── encourage.html
+│   │   │   ├── fairer.html
+│   │   │   ├── fight.html
+│   │   │   ├── gears.html
+│   │   │   ├── hear.html
+│   │   │   ├── index.html
+│   │   │   ├── lament.html
+│   │   │   ├── listen09.html
+│   │   │   ├── low_income.html
+│   │   │   ├── oppose.html
+│   │   │   ├── outside.html
+│   │   │   ├── parking08.html
+│   │   │   ├── parking2.html
+│   │   │   ├── parking3.html
+│   │   │   ├── pressure.html
+│   │   │   ├── priorities.html
+│   │   │   ├── raise.html
+│   │   │   ├── raise2.html
+│   │   │   ├── raise3.html
+│   │   │   ├── raise4.html
+│   │   │   ├── raise5.html
+│   │   │   ├── raise6.html
+│   │   │   ├── rally3.jpg
+│   │   │   ├── reasons.html
+│   │   │   ├── reconsider.html
+│   │   │   ├── reconsider2.html
+│   │   │   ├── reconsider3.html
+│   │   │   ├── reconsider4.html
+│   │   │   ├── reduce.html
+│   │   │   ├── save.html
+│   │   │   ├── shorts.html
+│   │   │   ├── stop175.html
+│   │   │   ├── support09.html
+│   │   │   ├── thanks.html
+│   │   │   ├── tryride.html
+│   │   │   ├── voice.html
+│   │   │   └── wrong.html
+│   │   └── index.html
+│   ├── fuel
+│   │   ├── 2016_02_TE_Natural_Gas_Biomethane_Study_FINAL.pdf
+│   │   ├── BC_Transit_Fuel_Cell_Research.pdf
+│   │   ├── ElectricBuses11-2021.mp4
+│   │   ├── ElectricBuses11-2021.pdf
+│   │   ├── biodieselharm.html
+│   │   ├── biodieselplant.html
+│   │   ├── biofuel.html
+│   │   ├── biofueltransit.html
+│   │   ├── cheaper.html
+│   │   ├── citaro.html
+│   │   ├── controversy.html
+│   │   ├── dieselfuels.html
+│   │   ├── hybrid.html
+│   │   ├── hybrid07.html
+│   │   ├── hybrid09.html
+│   │   ├── hybridreply.html
+│   │   ├── index.html
+│   │   ├── kickoff.html
+│   │   ├── lighterroute.html
+│   │   ├── metrocost.html
+│   │   ├── metrofuel.html
+│   │   ├── mge.html
+│   │   ├── morebus.html
+│   │   ├── safety
+│   │   │   ├── Miller08.html
+│   │   │   ├── _notes
+│   │   │   │   └── dwsync.xml
+│   │   │   ├── anon.html
+│   │   │   ├── attacks.html
+│   │   │   ├── beaten.html
+│   │   │   ├── cameras.html
+│   │   │   ├── cameras2.html
+│   │   │   ├── cameras3.html
+│   │   │   ├── cameras4.html
+│   │   │   ├── cameras5.html
+│   │   │   ├── cameras6.html
+│   │   │   ├── confrontations.html
+│   │   │   ├── drivers.html
+│   │   │   ├── drunk.html
+│   │   │   ├── flood.html
+│   │   │   ├── index.html
+│   │   │   ├── lament.html
+│   │   │   ├── metrosafety.html
+│   │   │   ├── mistake.html
+│   │   │   ├── nabbed.html
+│   │   │   ├── punches.html
+│   │   │   ├── robbed.html
+│   │   │   ├── school1.html
+│   │   │   ├── shopper.html
+│   │   │   ├── trouble.html
+│   │   │   ├── violence.html
+│   │   │   └── wallet.html
+│   │   └── sunline.html
+│   ├── governance
+│   │   ├── Try1INDEX.HTML
+│   │   ├── _notes
+│   │   │   └── dwsync.xml
+│   │   └── index.html
+│   ├── householdcosts
+│   │   ├── AffordabilityIndex.pdf
+│   │   ├── AffordabilityIndex2.pdf
+│   │   ├── DaneCountyFinalMarketDemandStudy4_17_14.pdf
+│   │   ├── Driven_to_Spend_Report.pdf
+│   │   ├── FTA-HUD_Action_Plan_--__Report_to_Congress_2008.pdf
+│   │   ├── ILSB0374.pdf
+│   │   ├── LosingGround.FINAL.pdf
+│   │   ├── MariaChocaUrban.pdf
+│   │   ├── The_Bus_Comes_at_5.mp4
+│   │   ├── _notes
+│   │   │   └── dwsync.xml
+│   │   ├── american_dream.pdf
+│   │   ├── index.html
+│   │   ├── payd_aff.pdf
+│   │   ├── payd_rec.pdf
+│   │   ├── pub_heavy_load_10_06.pdf
+│   │   └── relocating.html
+│   ├── index.html
+│   ├── king.html
+│   ├── madisonmetro
+│   │   ├── 7M_Grant.html
+│   │   ├── Bus_BB-397x470.jpg
+│   │   ├── Crawford1.jpg
+│   │   ├── Crawford2.png
+│   │   ├── Erik-Brown-3.11-Bus-Garage-10-648x432-2.jpg
+│   │   ├── Erik-Brown-3.11-Bus-Garage-10-648x432.jpg
+│   │   ├── Erik-Brown-3.11-Bus-Garage-2-705x470-2.jpg
+│   │   ├── Erik-Brown-3.11-Bus-Garage-2-705x470.jpg
+│   │   ├── Erik-Brown-3.11-Bus-Garage-4-648x432-2.jpg
+│   │   ├── Erik-Brown-3.11-Bus-Garage-4-648x432.jpg
+│   │   ├── Erik-Brown-3.11-Bus-Garage-9-648x432.jpg
+│   │   ├── IceBus.html
+│   │   ├── MetroAnnualReport2011.pdf
+│   │   ├── MetroAnnualReport2012.pdf
+│   │   ├── MetroAnnualReport2013.pdf
+│   │   ├── MetroAnnualReport2014.pdf
+│   │   ├── MetroAnnualReport2015.pdf
+│   │   ├── MetroAnnualReport2016.pdf
+│   │   ├── MetroAnnualReport2017.pdf
+│   │   ├── MetroAnnualReport2018.pdf
+│   │   ├── MetroAnnualReport2019.pdf
+│   │   ├── MetroAnnualReport2020.pdf
+│   │   ├── MetroAnnualReport2022.pdf
+│   │   ├── MetroAward2012.jpg
+│   │   ├── MetroAward2012_160wide.jpg
+│   │   ├── MetroTransitOrganization2016.pdf
+│   │   ├── MetroTransitOrganization2018.pdf
+│   │   ├── MetroTransitOrganization2019.pdf
+│   │   ├── Metro_Bus_BC-815x470.jpg
+│   │   ├── Nov_19_2020_Meet_and_Greet.mp4
+│   │   ├── Revolt.html
+│   │   ├── Sonci_VP_candidate_850_638.jpg
+│   │   ├── _notes
+│   │   │   └── dwsync.xml
+│   │   ├── annual_reports
+│   │   │   ├── MetroAnnualReport2011.pdf
+│   │   │   ├── MetroAnnualReport2012.pdf
+│   │   │   ├── MetroAnnualReport2013.pdf
+│   │   │   ├── MetroAnnualReport2014.pdf
+│   │   │   ├── MetroAnnualReport2015.pdf
+│   │   │   ├── MetroAnnualReport2016.pdf
+│   │   │   ├── MetroAnnualReport2017.pdf
+│   │   │   ├── MetroAnnualReport2018.pdf
+│   │   │   ├── MetroAnnualReport2019.pdf
+│   │   │   ├── MetroAnnualReport2020.pdf
+│   │   │   ├── MetroAnnualReport2021.pdf
+│   │   │   ├── MetroAnnualReport2022.pdf
+│   │   │   └── index.html
+│   │   ├── cares_grant.html
+│   │   ├── cares_grant.jpg
+│   │   ├── eveland2020.pdf
+│   │   ├── glossary.pdf
+│   │   ├── index.html
+│   │   ├── index2.html
+│   │   ├── indextom.html
+│   │   ├── invest.html
+│   │   ├── metro07thru10
+│   │   │   ├── 2009Audit_ExecSummary.pdf
+│   │   │   ├── 2009Audit_FullReport.pdf
+│   │   │   ├── AnnualReport-07.pdf
+│   │   │   ├── AnnualReport-08.pdf
+│   │   │   ├── DOTMetroAudit2010.pdf
+│   │   │   ├── MetroAnnualReport2009.pdf
+│   │   │   ├── MetroAnnualReport2010.pdf
+│   │   │   ├── Minibuses.html
+│   │   │   ├── OnBoard_Survey_08.pdf
+│   │   │   ├── Profile_of_Metro's_GM_Chuck_Kamp.pdf
+│   │   │   ├── Statistics.html
+│   │   │   ├── StopLocation.html
+│   │   │   ├── Take_For_A_Ride.html
+│   │   │   ├── _notes
+│   │   │   │   └── dwsync.xml
+│   │   │   ├── hard.html
+│   │   │   ├── hour.html
+│   │   │   ├── i2ndex.html
+│   │   │   ├── index.html
+│   │   │   ├── innovative.html
+│   │   │   ├── make_work.html
+│   │   │   ├── pass08.html
+│   │   │   ├── poor.html
+│   │   │   ├── rough_road.html
+│   │   │   ├── strength.html
+│   │   │   └── tryride.html
+│   │   ├── metro11thru18
+│   │   │   ├── Bus_BB-397x470.jpg
+│   │   │   ├── Erik-Brown-3.11-Bus-Garage-2-705x470-2.jpg
+│   │   │   ├── Metro_Bus_BC-815x470.jpg
+│   │   │   ├── OnBoard_Survey_08.pdf
+│   │   │   ├── index.html
+│   │   │   ├── newsrelease-trip_planning_improvements.doc
+│   │   │   ├── newsrelease-trip_planning_improvements.pdf
+│   │   │   ├── overcrowding1.html
+│   │   │   ├── overcrowding2.html
+│   │   │   ├── overcrowding3.html
+│   │   │   └── overcrowding4.html
+│   │   ├── metro2
+│   │   │   ├── 2010pay.html
+│   │   │   ├── 7point3.html
+│   │   │   ├── 7point3image.jpg
+│   │   │   ├── BadWeather.html
+│   │   │   ├── CancellationNewsRelease12_21_12.html
+│   │   │   ├── CancellationNewsRelease12_21_12_files
+│   │   │   │   ├── city_logo.gif
+│   │   │   │   └── print.css
+│   │   │   ├── Cancelling.html
+│   │   │   ├── Fair.html
+│   │   │   ├── GreatJob.html
+│   │   │   ├── IceBus.html
+│   │   │   ├── Limit Power.html
+│   │   │   ├── MetroSevereWeather2012.pdf
+│   │   │   ├── MetroStormPreEvent2012.pdf
+│   │   │   ├── Oversight.html
+│   │   │   ├── PartTime.html
+│   │   │   ├── WorkHard.html
+│   │   │   ├── driverpay09.html
+│   │   │   ├── image.html
+│   │   │   ├── index.html
+│   │   │   ├── no_more09.html
+│   │   │   ├── overtime09.html
+│   │   │   ├── salaries.html
+│   │   │   ├── stiff.html
+│   │   │   └── tip.html
+│   │   ├── metroforward2019.pdf
+│   │   ├── metrothru2006
+│   │   │   ├── 2003Annual.pdf
+│   │   │   ├── 2004Annual.pdf
+│   │   │   ├── 2005Annual.pdf
+│   │   │   ├── AnnualReport-07.pdf
+│   │   │   ├── annualreport1997.pdf
+│   │   │   ├── annualreport2001.pdf
+│   │   │   ├── basic.html
+│   │   │   ├── cuts.html
+│   │   │   ├── cuts2.html
+│   │   │   ├── debo.html
+│   │   │   ├── departures.html
+│   │   │   ├── freerides.html
+│   │   │   ├── improve.html
+│   │   │   ├── index.html
+│   │   │   ├── manager.html
+│   │   │   ├── manager2.html
+│   │   │   ├── manager3.html
+│   │   │   ├── managerquit.html
+│   │   │   ├── newguy.html
+│   │   │   ├── poor.html
+│   │   │   ├── real.html
+│   │   │   ├── service.html
+│   │   │   └── valleytransit.html
+│   │   ├── overcrowding1.html
+│   │   ├── overcrowding2.html
+│   │   ├── overcrowding3.html
+│   │   ├── overcrowding4.html
+│   │   ├── ride_guides
+│   │   │   ├── index.html
+│   │   │   ├── rideguide2004_03.pdf
+│   │   │   ├── rideguide2004_08.pdf
+│   │   │   ├── rideguide2005_08.pdf
+│   │   │   ├── rideguide2005_12.pdf
+│   │   │   ├── rideguide2006_08.pdf
+│   │   │   ├── rideguide2007_03.pdf
+│   │   │   ├── rideguide2007_06.pdf
+│   │   │   ├── rideguide2007_08.pdf
+│   │   │   ├── rideguide2007_10.pdf
+│   │   │   ├── rideguide2008_06.pdf
+│   │   │   ├── rideguide2008_10.pdf
+│   │   │   ├── rideguide2009_05.pdf
+│   │   │   ├── rideguide2010_03.pdf
+│   │   │   ├── rideguide2010_08.pdf
+│   │   │   ├── rideguide2010_12.pdf
+│   │   │   ├── rideguide2011_03.pdf
+│   │   │   ├── rideguide2011_06.pdf
+│   │   │   ├── rideguide2011_08.pdf
+│   │   │   ├── rideguide2012_03.pdf
+│   │   │   ├── rideguide2012_03_2.pdf
+│   │   │   ├── rideguide2012_06.pdf
+│   │   │   ├── rideguide2012_08.pdf
+│   │   │   ├── rideguide2013_03.pdf
+│   │   │   ├── rideguide2013_08.pdf
+│   │   │   ├── rideguide2014_01.pdf
+│   │   │   ├── rideguide2014_08.pdf
+│   │   │   ├── rideguide2014_12.pdf
+│   │   │   ├── rideguide2015_05.pdf
+│   │   │   ├── rideguide2015_08.pdf
+│   │   │   ├── rideguide2016_08.pdf
+│   │   │   ├── rideguide2017_08.pdf
+│   │   │   ├── rideguide2019_08.pdf
+│   │   │   ├── rideguide2020_08.pdf
+│   │   │   └── rideguide2022_11.pdf
+│   │   └── wish.html
+│   ├── parking
+│   │   ├── Auxiliary.html
+│   │   ├── ITDP_US_Parking_Report.pdf
+│   │   ├── MATC08.html
+│   │   ├── MATCEly1.html
+│   │   ├── MATCIvey1.html
+│   │   ├── MATCLove1.html
+│   │   ├── Reasonable.html
+│   │   ├── VA1.html
+│   │   ├── downtown1.html
+│   │   ├── index.html
+│   │   ├── parkpricing.pdf
+│   │   └── villager.html
+│   ├── regionaltransit
+│   │   ├── BRTConceptsPersich.pdf
+│   │   ├── BRUTransitModel09_04.pdf
+│   │   ├── BetweenCities.html
+│   │   ├── BusAndRail.html
+│   │   ├── BusFirst.html
+│   │   ├── BusRapidTransit.pdf
+│   │   ├── CBA_BRT_FINAL_REPORT.pdf
+│   │   ├── Champaign_Urbana_Terminal.jpg
+│   │   ├── Champaign_Urbana_Terminal_thumb.jpg
+│   │   ├── Champaign_Urbana_Terminal_thumb2.jpg
+│   │   ├── CouncilHub.html
+│   │   ├── DCRTA_DraftPlanforTransit_forHearing.pdf
+│   │   ├── Express1.html
+│   │   ├── Joint_Finance_onRTA_769.pdf
+│   │   ├── MPO.html
+│   │   ├── MadisonBRT.html
+│   │   ├── MadisonMover.html
+│   │   ├── Main 1 index.html
+│   │   ├── Michigan05_Kamp.pdf
+│   │   ├── PlanComHub.html
+│   │   ├── Preliminary_final_draft_PFT(4).pdf
+│   │   ├── Rethinking.html
+│   │   ├── Schedule.pdf
+│   │   ├── StopLocation.html
+│   │   ├── StuparFinalReport2015.pdf
+│   │   ├── TakeTheBus_ItisRapid.pdf
+│   │   ├── Terminal.html
+│   │   ├── TransportionPartofAffordability.pdf
+│   │   ├── _notes
+│   │   │   └── dwsync.xml
+│   │   ├── alternative.html
+│   │   ├── chance.html
+│   │   ├── clarify1.html
+│   │   ├── county.html
+│   │   ├── county_vote.html
+│   │   ├── denver.html
+│   │   ├── dontforget.html
+│   │   ├── expand.html
+│   │   ├── hub1.html
+│   │   ├── index.html
+│   │   ├── index2.html
+│   │   ├── index8_09.html
+│   │   ├── metromarch.html
+│   │   ├── misconceptions1.html
+│   │   ├── misconceptions2.html
+│   │   ├── missing.html
+│   │   ├── moreppl.html
+│   │   ├── necessity.html
+│   │   ├── outer_region
+│   │   │   ├── AddBuses.html
+│   │   │   ├── AnotherDay.html
+│   │   │   ├── Expand.html
+│   │   │   ├── Forward.html
+│   │   │   ├── RTA_Appointments.html
+│   │   │   ├── Redone.html
+│   │   │   ├── Spring.html
+│   │   │   ├── _notes
+│   │   │   │   └── dwsync.xml
+│   │   │   ├── county.html
+│   │   │   ├── crossplains.html
+│   │   │   ├── crossplains2.html
+│   │   │   ├── denver.html
+│   │   │   ├── epic.html
+│   │   │   ├── expansion.html
+│   │   │   ├── expansion2.html
+│   │   │   ├── fitchburg1.html
+│   │   │   ├── index.html
+│   │   │   ├── index_out.html
+│   │   │   ├── international.html
+│   │   │   ├── metromarch.html
+│   │   │   ├── mexicoc.html
+│   │   │   ├── middleton.html
+│   │   │   ├── middleton2.html
+│   │   │   ├── middleton3.html
+│   │   │   ├── moreppl.html
+│   │   │   ├── south.html
+│   │   │   └── strategicplan.html
+│   │   ├── outside.html
+│   │   ├── philanthropist.html
+│   │   ├── prelRegMayoral.html
+│   │   ├── public.html
+│   │   ├── question.html
+│   │   ├── region2
+│   │   │   ├── 2013-Golden-memo-on-county-role-in-funding-transit.pdf
+│   │   │   ├── 75_flyer.pdf
+│   │   │   ├── AddBuses.html
+│   │   │   ├── AnotherDay.html
+│   │   │   ├── Busy_Bus_Station_013-3.jpg
+│   │   │   ├── CVSPlanned.html
+│   │   │   ├── Champaign_Urbana_Terminal.jpg
+│   │   │   ├── Champaign_Urbana_Terminal2.jpg
+│   │   │   ├── Champaign_Urbana_Terminal_thumb.jpg
+│   │   │   ├── Champaign_Urbana_Terminal_thumb2.jpg
+│   │   │   ├── ChangedAgain.html
+│   │   │   ├── Copy of index.html
+│   │   │   ├── CouncilHub.html
+│   │   │   ├── Expand.html
+│   │   │   ├── Feasibility_of_Intercity_Bus_Terminal_in_Madison_Area.pdf
+│   │   │   ├── FitchburgBetterTransit_1.pdf
+│   │   │   ├── FitchburgTransitPlan2010.pdf
+│   │   │   ├── FitchburgTransportationChapter.pdf
+│   │   │   ├── Fitchburg_expand.html
+│   │   │   ├── Forward.html
+│   │   │   ├── Getting_to_Work_in_Dane_County.pdf
+│   │   │   ├── Greyhound.html
+│   │   │   ├── Greyhound2.html
+│   │   │   ├── Greyhound3.html
+│   │   │   ├── GreyhoundNPT.html
+│   │   │   ├── GreyhoundParking.html
+│   │   │   ├── Isthmusontheisthmus_Madison_needs_a_bus_station_and_that's_no_ joke.flv
+│   │   │   ├── ListeningSessions2015Report.pdf
+│   │   │   ├── MPO.html
+│   │   │   ├── MadisonBRT.html
+│   │   │   ├── MadisonBRT2.html
+│   │   │   ├── Michigan05_Kamp.pdf
+│   │   │   ├── PlanComHub.html
+│   │   │   ├── RTA_Appointments.html
+│   │   │   ├── Redone.html
+│   │   │   ├── Spring.html
+│   │   │   ├── StarterBRT.html
+│   │   │   ├── TransferDepot.html
+│   │   │   ├── _notes
+│   │   │   │   └── dwsync.xml
+│   │   │   ├── chance.html
+│   │   │   ├── county.html
+│   │   │   ├── crossplains.html
+│   │   │   ├── crossplains2.html
+│   │   │   ├── denver.html
+│   │   │   ├── epic.html
+│   │   │   ├── expansion.html
+│   │   │   ├── expansion2.html
+│   │   │   ├── fitchburg1.html
+│   │   │   ├── hub1.html
+│   │   │   ├── index.html
+│   │   │   ├── index_2.html
+│   │   │   ├── international.html
+│   │   │   ├── metromarch.html
+│   │   │   ├── mexicoc.html
+│   │   │   ├── middleton.html
+│   │   │   ├── middleton2.html
+│   │   │   ├── middleton3.html
+│   │   │   ├── moreppl.html
+│   │   │   ├── new_drugstore.html
+│   │   │   ├── outer_region
+│   │   │   ├── question.html
+│   │   │   ├── rate.html
+│   │   │   ├── south.html
+│   │   │   ├── strategicplan.html
+│   │   │   ├── taxing.html
+│   │   │   ├── taxing2.html
+│   │   │   ├── terminal1.html
+│   │   │   ├── terminal2.html
+│   │   │   └── towns.html
+│   │   ├── strategicplan.html
+│   │   ├── suburbanites.html
+│   │   ├── taxing.html
+│   │   ├── taxing2.html
+│   │   ├── taxing3.html
+│   │   ├── terminal1.html
+│   │   ├── terminal2.html
+│   │   ├── towns.html
+│   │   └── upgrades.html
+│   ├── routing
+│   │   ├── BusRidersUseStateStreet.html
+│   │   ├── Streamlined.pdf
+│   │   ├── _notes
+│   │   │   └── dwsync.xml
+│   │   ├── index.html
+│   │   ├── routing2
+│   │   │   ├── 08ChangesOpinion1.html
+│   │   │   ├── 08ChangesOpinion2.html
+│   │   │   ├── 08HearingCapTimes.html
+│   │   │   ├── 08changes1.html
+│   │   │   ├── Impugn.html
+│   │   │   ├── Long_Way.html
+│   │   │   ├── Questionable.html
+│   │   │   ├── RidershipStatistics.html
+│   │   │   ├── ServPlan1_08.doc
+│   │   │   ├── SouthSide.html
+│   │   │   ├── Statistics.html
+│   │   │   ├── airport.html
+│   │   │   ├── badweather.html
+│   │   │   ├── index (SusanDeVos's conflicted copy 2016-01-09).html
+│   │   │   ├── index.html
+│   │   │   ├── lucky13.html
+│   │   │   ├── routechanges.html
+│   │   │   ├── routechanges2.html
+│   │   │   ├── routechanges3.html
+│   │   │   ├── routechanges4.html
+│   │   │   ├── routechanges5.html
+│   │   │   ├── schedule.html
+│   │   │   ├── shuttle1.html
+│   │   │   ├── simple_changes.html
+│   │   │   └── why_drive.html
+│   │   ├── routing3
+│   │   │   ├── 08ChangesOpinion1.html
+│   │   │   ├── 08ChangesOpinion2.html
+│   │   │   ├── 08HearingCapTimes.html
+│   │   │   ├── 08changes1.html
+│   │   │   ├── Impugn.html
+│   │   │   ├── Long_Way.html
+│   │   │   ├── ProposingRouteChanges08.html
+│   │   │   ├── Questionable.html
+│   │   │   ├── Rip08PropsedChanges.html
+│   │   │   ├── SouthSide.html
+│   │   │   ├── cuts.html
+│   │   │   ├── cuts2.html
+│   │   │   ├── index.html
+│   │   │   ├── poor.html
+│   │   │   ├── routechanges.html
+│   │   │   ├── routechanges2.html
+│   │   │   ├── routechanges3.html
+│   │   │   ├── routechanges4.html
+│   │   │   ├── routechanges5.html
+│   │   │   ├── schedule.html
+│   │   │   └── service.html
+│   │   └── streamlined2.html
+│   ├── safety
+│   │   ├── _notes
+│   │   │   └── dwsync.xml
+│   │   ├── index.html
+│   │   └── safety_thru_2014
+│   │       ├── Miller08.html
+│   │       ├── RulesofConduct.pdf
+│   │       ├── anon.html
+│   │       ├── attacks.html
+│   │       ├── beaten.html
+│   │       ├── cameras.html
+│   │       ├── cameras2.html
+│   │       ├── cameras3.html
+│   │       ├── cameras4.html
+│   │       ├── cameras5.html
+│   │       ├── cameras6.html
+│   │       ├── confrontations.html
+│   │       ├── drivers.html
+│   │       ├── drunk.html
+│   │       ├── flood.html
+│   │       ├── improve.html
+│   │       ├── index.html
+│   │       ├── lament.html
+│   │       ├── metrosafety.html
+│   │       ├── mistake.html
+│   │       ├── nabbed.html
+│   │       ├── punched.html
+│   │       ├── punches.html
+│   │       ├── robbed.html
+│   │       ├── school1.html
+│   │       ├── shopper.html
+│   │       ├── trouble.html
+│   │       ├── violence.html
+│   │       └── wallet.html
+│   ├── seniors
+│   │   ├── BusStopAccessibility06BSTK_Complete_Toolkit.pdf
+│   │   ├── Logisticare1.html
+│   │   ├── Logisticare2.html
+│   │   ├── Logisticare3.html
+│   │   ├── Medicaid_and_Brokerage.pdf
+│   │   ├── Rosenbloom03.pdf
+│   │   ├── Route21.pdf
+│   │   ├── WISC_Opinion-HnT_First.pdf
+│   │   ├── _notes
+│   │   │   └── dwsync.xml
+│   │   ├── carless.html
+│   │   ├── disability-in-redesign.html
+│   │   ├── expanding.html
+│   │   ├── index.html
+│   │   ├── keep.html
+│   │   ├── keys10.html
+│   │   ├── keys10.png
+│   │   ├── mobility.html
+│   │   ├── options.html
+│   │   ├── options2.html
+│   │   ├── options3.html
+│   │   ├── options3a.pdf
+│   │   ├── require1.html
+│   │   ├── require2.html
+│   │   ├── seniors09.html
+│   │   ├── stop.html
+│   │   ├── stranded.html
+│   │   └── utah.html
+│   └── transitfriendly
+│       ├── 74423-TDM-Program-Final-October2022-Revised.pdf
+│       ├── AHMidtermReport.pdf
+│       ├── AdHoc1_23_39399_thumb.jpg
+│       ├── AdHocB1_25.jpg
+│       ├── Ad_Hoc2.html
+│       ├── BarbaraSComments.pdf
+│       ├── Cambridge_Municipal_Code_Chapter_10.18.pdf
+│       ├── DeVosSmallBusMemo.pdf
+│       ├── Introduction_to_UrbanFootprint_MABA.pdf
+│       ├── LRMTPAHCFinalReportJune2008.pdf
+│       ├── LosAngeles1.pdf
+│       ├── MIM_Exec_Summary_web.pdf
+│       ├── MIM_Report_web.pdf
+│       ├── MikeBComments.pdf
+│       ├── PDF_Accompany_TOD_video2021.pdf
+│       ├── PortlandCentralCityTransportationManagementPlan1995.pdf
+│       ├── TOD_in_Madison2021.mp4
+│       ├── TransferPointSystem.pdf
+│       ├── UpdatestoFinalReport12.pdf
+│       ├── VillagerMall5400TDM2009.pdf
+│       ├── _notes
+│       │   └── dwsync.xml
+│       ├── ad_hoc1.html
+│       ├── booster.html
+│       ├── busshelters4.html
+│       ├── cityplan.html
+│       ├── designing-sustainable-neighborhoods-web.pdf
+│       ├── freeways.html
+│       ├── friendly2
+│       │   ├── AdHoc1_23_39399_thumb.jpg
+│       │   ├── AdHocB1_25.jpg
+│       │   ├── Ad_Hoc2.html
+│       │   ├── BarbaraSComments.pdf
+│       │   ├── EastGroup.html
+│       │   ├── LRMTPAHCFinalReportJune2008.pdf
+│       │   ├── Meeting.html
+│       │   ├── MikeBComments.pdf
+│       │   ├── TransferPointSystem.pdf
+│       │   ├── UpdatestoFinalReport12.pdf
+│       │   ├── ad_hoc1.html
+│       │   ├── booster.html
+│       │   ├── brakes.html
+│       │   ├── happy.html
+│       │   ├── improve.html
+│       │   ├── index.html
+│       │   ├── irk.html
+│       │   ├── possibilities.html
+│       │   ├── promise.html
+│       │   ├── reverse.html
+│       │   └── sound_off.html
+│       ├── grads.html
+│       ├── improve.html
+│       ├── index.html
+│       ├── irk.html
+│       ├── king.html
+│       ├── letter.pdf
+│       ├── parking1.html
+│       ├── reducecar.html
+│       ├── reducecar.txt
+│       ├── reducecar2.html
+│       ├── reducecar3.html
+│       ├── roadblock.html
+│       ├── tdm.html
+│       ├── terminal1.html
+│       ├── terminal2.html
+│       ├── tigerbrt.html
+│       ├── transfer
+│       │   ├── EastGroup.html
+│       │   ├── TransferPointSystem.pdf
+│       │   ├── brakes.html
+│       │   ├── happy.html
+│       │   ├── index.html
+│       │   ├── meeting.html
+│       │   ├── possibilities.html
+│       │   ├── promise.html
+│       │   ├── reverse.html
+│       │   └── sound_off.html
+│       └── wrong_direction.html
+├── articles.html
+├── articles2.html
+├── audio
+│   ├── MABA21_11_1.mp4
+│   └── WTRA2019AnnualMeeting03_28A.MP3
+├── blog
+│   ├── 12combined.jpg
+│   ├── 2016Emissions.jpg
+│   ├── 2019Alder.html
+│   ├── 2019Mayor.pdf
+│   ├── 2019MayoralForum.html
+│   ├── 2019changes.html
+│   ├── 2019publichearing2.jpg
+│   ├── 2020County.html
+│   ├── 2020_commutecard.JPG
+│   ├── 2021CapBudget.html
+│   ├── 2021borrowing.png
+│   ├── 2021budget_table.jpg
+│   ├── 85Percent.html
+│   ├── August2020Weekday_Service_Map.jpg
+│   ├── BRTstarter.html
+│   ├── BartonBlog1.html
+│   ├── BeltTighten.html
+│   ├── BeltlineDPTSUproject.png
+│   ├── Borrowing-in-Transit.html
+│   ├── BusBuddies.html
+│   ├── BusBuddies1.jpg
+│   ├── COVID19.html
+│   ├── COVID2023.html
+│   ├── CityTransDept2.png
+│   ├── CommunityEngagement.html
+│   ├── CommunityResponse.html
+│   ├── CommuteCard.html
+│   ├── CountyCAP1.html
+│   ├── Cushman2022.jpg
+│   ├── DaneNon-Drivers1.html
+│   ├── DeveshSullivan2.jpg
+│   ├── GO-Borrowing-2024.png
+│   ├── HalfAssed.html
+│   ├── Jan15MayoralForum.jpg
+│   ├── JulyMertzig2.jpg
+│   ├── MetroTank.jpg
+│   ├── Non-DriversDane1-Fig1.png
+│   ├── Non-DriversDane1-Fig2.png
+│   ├── Nukala1.jpg
+│   ├── Nukala2.jpg
+│   ├── Nukala3-4combinedwithcaption.jpg
+│   ├── Nukala5.jpg
+│   ├── Nukala6.jpg
+│   ├── Nukala7-8combinedwithcaption.jpg
+│   ├── Post-COVID.html
+│   ├── Q1b-post-plan-survey.jpg
+│   ├── SnowyBusStop_Feb2019_Mertzig.jpg
+│   ├── SouthTransferPoint3-2025.jpg
+│   ├── Tram_Shenyang2.jpg
+│   ├── VRF.html
+│   ├── VisionZero.html
+│   ├── VoteTodaybyMichaelMirer.jpg
+│   ├── WWD2024_Image2.jpg
+│   ├── WWDmight.html
+│   ├── amenities.html
+│   ├── barton-pic1.jpg
+│   ├── bone-and-muscle.jpg
+│   ├── brt_starter.jpg
+│   ├── cash-fare.png
+│   ├── cash.html
+│   ├── combinedZhao1.jpg
+│   ├── combinedZhao2.jpg
+│   ├── conflictofinterest.html
+│   ├── conflictofinterest.jpg
+│   ├── confrontation.html
+│   ├── delehanty.html
+│   ├── delehanty3.jpg
+│   ├── displace1.html
+│   ├── disruption.html
+│   ├── existingnetwork2.jpg
+│   ├── farley_univ2a_1_20_20.jpg
+│   ├── forward.jpg
+│   ├── from2018studyp6_stop668.jpg
+│   ├── gahagan.html
+│   ├── gahagan.png
+│   ├── goodgovernance.html
+│   ├── humble_pi.html
+│   ├── humble_pi.jpg
+│   ├── humble_t3.jpg
+│   ├── humble_t4.jpg
+│   ├── index.html
+│   ├── kumar.html
+│   ├── lanes.html
+│   ├── lanes.jpg
+│   ├── map_ald_dist2.jpg
+│   ├── maximus.html
+│   ├── misuse.jpg
+│   ├── newDOT.html
+│   ├── peak.html
+│   ├── redesign.html
+│   ├── redesign_lowincome.jpg
+│   ├── rental_rate.jpg
+│   ├── ridership.jpg
+│   ├── shakyredesign.html
+│   ├── shattered.png
+│   ├── smartphone.html
+│   ├── smartphone.jpg
+│   ├── snowy_2019.html
+│   ├── thisaway.jpg
+│   ├── trams.html
+│   ├── vote_access_2021.html
+│   └── vrf.jpg
+├── blog.html
+├── brt.html
+├── brt_s.html
+├── cgi-bin
+├── conflict1.pdf
+├── events.html
+├── extra.txt
+├── favicon.ico
+├── grassrootslogo.png
+├── index - old.html
+├── index.html
+├── index_pages
+│   ├── S4extra.html
+│   ├── index.html
+│   ├── indexS1.html
+│   ├── indexS2.html
+│   └── indexS3.html
+├── index_rightcol_change.html
+├── joinus_old.html
+├── links.html
+├── mio.css
+├── misc
+│   ├── 07StrategicPlan.pdf
+│   ├── 09BudgetStatement.html
+│   ├── 09BudgetStatement.pdf
+│   ├── 2009BRT_Seminar_Flyer.pdf
+│   ├── 2009announce.pdf
+│   ├── 2019_WTRA_Annual_Meeting_Flyer.pdf
+│   ├── APTA-POLICY-BRIEF-Transit-Savings-09.27.2023.pdf
+│   ├── BRT_Plan_Adopted_June_08.pdf
+│   ├── BadgerBusStatement.pdf
+│   ├── BadgerDepot4.pdf
+│   ├── BarbaraSComments.pdf
+│   ├── BusSta_OpEd_090607.pdf
+│   ├── Bylaws8_July_2018.pdf
+│   ├── CNU_WI_Nov2011Flyer.pdf
+│   ├── CoalitionMeetingAgenda2015_01_06.pdf
+│   ├── CommuteCard
+│   │   ├── Commut1.jpg
+│   │   ├── Commut2.jpg
+│   │   └── CommuteCardinfo.html
+│   ├── Complete_Streets_poster.pdf
+│   ├── DCRTA_ Plan_for_Hearing.pdf
+│   ├── Driven2a.pdf
+│   ├── Driven_2_Spend_Report.pdf
+│   ├── Driven_to_Spend.htm
+│   ├── Getting_Around_Wisconsin.pdf
+│   ├── InKindDonations.pdf
+│   ├── InKindDonationsForm07.doc
+│   ├── Isthmus_Madison_needs_a bus_station_video.flv
+│   ├── Jan_24_07.html
+│   ├── Jenydetour.html
+│   ├── June09joint.html
+│   ├── LRMTPAHCFinalReportJune2008.pdf
+│   ├── MABAlogo.jpg
+│   ├── Madison_Bus_Size_Study_Draft_Final_Report_1_7_2014_v2.pdf
+│   ├── ManifestoFlyerColor.pdf
+│   ├── Membership form3.pdf
+│   ├── MikeBComments.pdf
+│   ├── NetworkRedesignDiscuss4-26-2021.mp4
+│   ├── PeakOilLogo.jpg
+│   ├── Preliminary2020SummerResearchPresentation.pdf
+│   ├── ProposedServiceChangesAug13.pdf
+│   ├── RTA09Statement.pdf
+│   ├── RTAStatement.html
+│   ├── RTAStatement.pdf
+│   ├── Rally08_Poster.pdf
+│   ├── TransitSaves070109_energy_report.pdf
+│   ├── TransitSaves090205_report.pdf
+│   ├── WTRAMayMeeting2014.jpg
+│   ├── WTRA_Meeting_2016_Flyer.pdf
+│   ├── WTRA_Meeting_2018_Flyer4.pdf
+│   ├── _notes
+│   │   └── dwsync.xml
+│   ├── apta.com-PublicTransportationFacts.pdf
+│   ├── conflict1.pdf
+│   ├── continue.htm
+│   ├── joint.html
+│   ├── joint09.html
+│   ├── ltrhd_stimulus_pos.pdf
+│   ├── pubs_preserving_air.pdf
+│   └── spring-2023-candidate-questionnaire-with-floating-toc.html
+├── old_css
+│   ├── MABA.css
+│   └── MABA_2.css
+├── positions
+│   ├── 09BudgetStatement.html
+│   ├── 09BudgetStatement.pdf
+│   ├── 16FareHikePosition.html
+│   ├── 2030.html
+│   ├── BadgerBusStatement.pdf
+│   ├── BadgerDepot4.pdf
+│   ├── BusSta_OpEd_090607.pdf
+│   ├── BusinessCanDo.html
+│   ├── Cashless2021.pdf
+│   ├── ColorManifesto.html
+│   ├── ColorManifesto.pdf
+│   ├── County.html
+│   ├── County.pdf
+│   ├── Infrastructure.html
+│   ├── June09joint.html
+│   ├── MABAlogo.jpg
+│   ├── MadisonParks.html
+│   ├── ManifestoUpdate.pdf
+│   ├── Old_files
+│   │   ├── 07StrategicPlan.pdf
+│   │   ├── about.html
+│   │   ├── aboutus.txt
+│   │   ├── donate.html
+│   │   ├── indexS4.html
+│   │   ├── joinusS1.html
+│   │   ├── news_events.html
+│   │   ├── optional_test.html
+│   │   ├── strategic_plan_2007.html
+│   │   ├── strategies2.html
+│   │   └── test_form.html
+│   ├── OpenLetter2012.html
+│   ├── OpenLetter2012.pdf
+│   ├── ParksPosition.pdf
+│   ├── PeakOilLogo.jpg
+│   ├── Proposed2016FareIncrease_ Metro Transit.pdf
+│   ├── RTA09Statement.html
+│   ├── RTA09Statement.pdf
+│   ├── RTAOpEdAug09.html
+│   ├── Redesign-the-redesign.html
+│   ├── Redesign.pdf
+│   ├── RejectCashlessFares.html
+│   ├── S3StopSpacing_01312015.pdf
+│   ├── State.html
+│   ├── StateTopics.pdf
+│   ├── StopSpacingJan15.html
+│   ├── SummaryColorManifesto.pdf
+│   ├── TED2023icon.jpg
+│   ├── TED2024-MABA-Res.html
+│   ├── TED2024-MABA-Res.pdf
+│   ├── TED2024icon.jpg
+│   ├── TED2025-MABA-Res.pdf
+│   ├── TED2025banner-MABA.jpg
+│   ├── TransitEquityDay2023.html
+│   ├── TransitEquityDay2023.pdf
+│   ├── UWTrans.html
+│   ├── UW_Pass_2010.html
+│   ├── UW_Pass_2010.pdf
+│   ├── UW_Trans.pdf
+│   ├── VeronaRd.html
+│   ├── VeronaRdPDF.pdf
+│   ├── anti_hike16Position.pdf
+│   ├── joint.html
+│   ├── joint09.html
+│   ├── letter.pdf
+│   ├── ltrhd_stimulus_pos.pdf
+│   └── ted2025_MABA_Res.html
+├── positions.html
+├── positions_old.html
+├── researchtopics.html
+├── server.txt
+├── site_tree.txt
+├── strategic_plan.html
+├── strategies2.html
+├── streamlined.html
+├── temp
+│   ├── 2024wtraflyer3.jpg
+│   ├── 2024wtraflyer3.pdf
+│   ├── Kuntz_flyer.pdf
+│   ├── MABA21_02_22.m4a
+│   ├── MeetGM2020.pdf
+│   ├── Meeting_2017_Flyer2.pdf
+│   ├── SC2020_flyer.pdf
+│   ├── WTRA-052122.pdf
+│   ├── WTRA2020.pdf
+│   ├── WTRA2021flyer_5.pdf
+│   ├── WTRA2023-TextOnlyFlyer.doc
+│   ├── WTRA2023-flyer.jpg
+│   ├── WTRA2023-flyer.pdf
+│   └── bettertransit-OrrantiaV3-RED.pdf
+├── template.html
+├── top5things.html
+├── volunteer.html
+└── wp{wp}.wpd
+
+81 directories, 1447 files
