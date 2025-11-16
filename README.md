@@ -84,8 +84,11 @@ The site uses CSS custom properties (variables) defined in `:root` for consisten
 
 #### 2. Navigation (`#topnav`)
 - **Sticky Navigation**: Uses `position: sticky` when `body.sticky` class is present
-- **Dropdown Menus**: CSS-only dropdowns using `:hover` and `:focus-within`
-- **Spacer Element**: `.spacer` uses `flex: 1` to push action buttons right
+- **Desktop Navigation** (>= 768px): Full horizontal menu with dropdowns
+- **Mobile Navigation** (< 768px): Pure CSS hamburger menu with slide-in drawer
+- **Dropdown Menus**: CSS-only dropdowns using `:hover` and `:focus-within` (desktop)
+- **Mobile Accordions**: Pure CSS submenus using `<details>` and `<summary>` elements
+- **Spacer Element**: `.spacer` uses `flex: 1` to push action buttons right (desktop)
 
 #### 3. Components
 
@@ -168,6 +171,17 @@ Every formatted page follows this structure with SEO meta tags and full navigati
   
   <!-- Navigation -->
   <nav id="topnav">
+    <!-- Hidden checkbox for mobile menu toggle -->
+    <input type="checkbox" id="menu-toggle">
+    
+    <!-- Hamburger button (mobile only) -->
+    <label for="menu-toggle" class="hamburger-label" aria-label="Open menu">
+      <span></span>
+      <span></span>
+      <span></span>
+    </label>
+    
+    <!-- Desktop navigation (hidden on mobile) -->
     <div class="container navbar">
       <ul class="menu">
         <li><a href="index.html">Home</a></li>
@@ -189,6 +203,49 @@ Every formatted page follows this structure with SEO meta tags and full navigati
           </ul>
         </li>
         <li class="spacer"></li>
+        <li><a class="btn-cta" href="volunteer.html">Join</a></li>
+        <li><a class="btn-cta" href="membership.html">Membership</a></li>
+        <li><a class="btn-cta" href="donate.html">Donate</a></li>
+      </ul>
+    </div>
+    
+    <!-- Overlay (mobile only) -->
+    <label for="menu-toggle" class="nav-overlay"></label>
+    
+    <!-- Mobile drawer menu (mobile only) -->
+    <div class="mobile-drawer">
+      <ul class="mobile-menu">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="aboutus.html">About Us</a></li>
+        <li><a href="events.html">Events</a></li>
+        
+        <!-- Positions submenu with accordion -->
+        <li>
+          <details>
+            <summary>Positions</summary>
+            <a href="positions.html">Positions</a>
+            <ul class="submenu">
+              <li><a href="resolutions.html">Resolutions</a></li>
+              <li><a href="Manifesto/manifesto.html">Manifesto</a></li>
+              <li><a href="strategic_plan.html">Strategic Plan</a></li>
+            </ul>
+          </details>
+        </li>
+        
+        <!-- Resources submenu with accordion -->
+        <li>
+          <details>
+            <summary>Resources</summary>
+            <a href="resources.html">Resources</a>
+            <ul class="submenu">
+              <li><a href="articles.html">Articles</a></li>
+              <li><a href="blog.html">Blog</a></li>
+              <li><a href="links.html">Links</a></li>
+              <li><a href="news.html">News</a></li>
+            </ul>
+          </details>
+        </li>
+        
         <li><a class="btn-cta" href="volunteer.html">Join</a></li>
         <li><a class="btn-cta" href="membership.html">Membership</a></li>
         <li><a class="btn-cta" href="donate.html">Donate</a></li>
@@ -939,19 +996,55 @@ For now, manual updates are required, but being systematic will prevent errors.
 
 The site uses media queries for responsive layouts:
 
-1. **Mobile**: Default (< 640px)
+1. **Mobile**: < 768px
    - Single column layouts
-   - Stacked navigation elements
+   - Hamburger menu navigation (slide-in drawer)
+   - Mobile accordions for submenus
    - Full-width images
+   - Centered header content
 
-2. **Tablet**: 640px - 1000px
+2. **Tablet**: 768px - 1024px
+   - Desktop navigation with wrapping menu items
    - 2-column grid for cards
    - Adjusted font sizes
 
-3. **Desktop**: 1000px+
+3. **Desktop**: 1024px+
+   - Full desktop navigation (horizontal menu)
    - 3-column grid for cards
    - Larger font sizes in header
    - Optimal spacing
+
+### Mobile Navigation
+
+The site uses a **pure CSS hamburger menu** for mobile devices (< 768px). This implementation requires **no JavaScript**.
+
+#### Mobile Navigation Structure
+
+**HTML Components**:
+- Hidden checkbox: `<input type="checkbox" id="menu-toggle">`
+- Hamburger button: `<label for="menu-toggle" class="hamburger-label">`
+- Desktop navigation: `<div class="container navbar">` (hidden on mobile)
+- Overlay: `<label for="menu-toggle" class="nav-overlay">`
+- Mobile drawer: `<div class="mobile-drawer">` (slide-in menu)
+
+**Submenu Accordions**:
+- Uses HTML5 `<details>` and `<summary>` elements
+- Pure CSS transitions with `max-height`
+- Parent links remain clickable
+
+#### Mobile Menu Behavior
+
+- **Hamburger button**: Appears in top-right on mobile, animates to X when open
+- **Slide-in drawer**: Slides in from right when menu is opened
+- **Overlay**: Semi-transparent backdrop that closes menu when clicked
+- **Submenus**: Expand/collapse with smooth CSS transitions
+- **CTA buttons**: Full-width prominent buttons in mobile menu
+
+#### Desktop Navigation (>= 768px)
+
+- Full horizontal menu bar
+- Dropdown menus on hover
+- Unchanged from original design
 
 ### Responsive Patterns
 
@@ -965,6 +1058,18 @@ The site uses media queries for responsive layouts:
 }
 @media(max-width:640px) {
   .grid { grid-template-columns: 1fr; } /* Mobile */
+}
+```
+
+**Navigation**:
+```css
+/* Desktop navigation shown by default */
+#topnav .navbar { display: block; }
+
+/* Mobile: Hide desktop nav, show hamburger */
+@media(max-width:767px) {
+  #topnav .navbar { display: none; }
+  .hamburger-label, .mobile-drawer { display: block; }
 }
 ```
 
@@ -1018,11 +1123,21 @@ The site uses media queries for responsive layouts:
 
 ### Updating Navigation
 
-Navigation structure is in each HTML file. To add a new top-level menu item:
+Navigation structure is in each HTML file. The site has **two navigation systems**:
+- **Desktop navigation** (>= 768px): Traditional horizontal menu with dropdowns
+- **Mobile navigation** (< 768px): Hamburger menu with slide-in drawer
 
-1. Add `<li>` to `<ul class="menu">` in all pages
-2. For submenus, add `class="has-sub"` and nested `<ul class="sub">`
-3. Update relative paths for subdirectory pages
+To add a new top-level menu item:
+
+1. **Add to desktop menu**: Add `<li>` to `<ul class="menu">` in all pages
+2. **Add to mobile menu**: Add `<li>` to `<ul class="mobile-menu">` in all pages
+3. **For submenus**: 
+   - Desktop: Add `class="has-sub"` and nested `<ul class="sub">`
+   - Mobile: Add `<details>` with `<summary>` and nested `<ul class="submenu">`
+4. **Update relative paths** for subdirectory pages (both desktop and mobile)
+5. **Use update script**: The `update_mobile_nav.py` script can help update navigation across all files
+
+**Important**: Both desktop and mobile menus must be kept in sync manually.
 
 ### Image Guidelines
 
@@ -1156,7 +1271,10 @@ The site is designed for modern browsers:
 - CSS Variables (Custom Properties)
 - Flexbox
 - `:target` pseudo-class (lightbox)
+- `:checked` pseudo-class (mobile menu toggle)
 - `position: sticky`
+- CSS transitions and transforms (mobile menu animations)
+- HTML5 `<details>` and `<summary>` (mobile accordions)
 
 ---
 
@@ -1231,9 +1349,18 @@ For technical questions or updates:
 
 ## Version History
 
-- **Current Version**: Modern responsive redesign
-- **CSS File**: `MABA-modern.css` (295 lines)
+- **Current Version**: Modern responsive redesign with mobile hamburger menu
+- **CSS File**: `MABA-modern.css` (539 lines)
 - **Total Pages**: ~755 HTML files
+- **Mobile Navigation**: Pure CSS hamburger menu with slide-in drawer (implemented 2025)
+- **Navigation Updates**: Automated script (`update_mobile_nav.py`) for batch updates
+
+### Recent Updates (2025)
+
+- ✅ **Mobile Navigation Overhaul**: Implemented pure CSS hamburger menu with slide-in drawer
+- ✅ **Responsive Design**: Full mobile support (< 768px) with accordion submenus
+- ✅ **Navigation Path Fixes**: All 632 HTML files updated with correct relative paths
+- ✅ **Desktop Preservation**: Desktop navigation (>= 768px) unchanged and fully functional
 
 ---
 
